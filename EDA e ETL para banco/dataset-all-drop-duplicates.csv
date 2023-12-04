@@ -1,0 +1,836 @@
+,Unnamed: 0.1,Unnamed: 0,make,model,fuel,gear,hp,year
+758,758,763,Mercedes-Benz,GLS 500,Gasoline,Automatic,455.0,2019
+2158,2158,2169,Maserati,GranTurismo,Gasoline,Automatic,460.0,2016
+2674,2674,2690,Renault,Express,Gasoline,Manual,101.0,2021
+3388,3388,3408,Chrysler,Grand Voyager,Gasoline,Automatic,287.0,2013
+3616,3616,3638,Volkswagen,Cross Golf,Gasoline,Manual,160.0,2014
+4551,4551,4576,Mercedes-Benz,SLC 200,Gasoline,Automatic,184.0,2017
+5090,5090,5119,Lancia,Voyager,Diesel,Automatic,178.0,2013
+5279,5279,5308,DS,Automobiles DS 4,Gasoline,Manual,120.0,2012
+6339,6339,6376,Lancia,Thema,Gasoline,Automatic,286.0,2012
+6941,6941,6978,Toyota,Urban Cruiser,Diesel,Manual,90.0,2011
+7340,7340,7378,Maserati,Quattroporte,Gasoline,Automatic,581.0,2021
+7495,7495,7534,Alfa,Romeo 4C,Gasoline,Automatic,241.0,2018
+7984,7984,8023,Fiat,500e,Electric,Automatic,117.0,2021
+8738,8738,8782,Citroen,C15,Gasoline,Manual,69.0,2018
+8892,8892,8938,Nissan,Evalia,Diesel,Manual,90.0,2015
+9026,9026,9075,Hyundai,Bayon,Gasoline,Manual,101.0,2021
+9143,9143,9194,Volkswagen,Golf GTE,Gasoline,Automatic,204.0,2017
+9244,9244,9297,MINI,John Cooper Works Coupe,Gasoline,Manual,211.0,2012
+10629,10629,10692,McLaren,GT,Gasoline,Automatic,620.0,2019
+10833,10833,10900,Zhidou,D2S,Electric,Automatic,24.0,2019
+11249,11249,11318,Mercedes-Benz,Marco Polo,Diesel,Automatic,163.0,2018
+11272,11272,11341,Mercedes-Benz,A 35 AMG,Gasoline,Automatic,306.0,2019
+11275,11275,11344,Morgan,3-Wheeler,Gasoline,Manual,68.0,2019
+11377,11377,11446,MINI,Cooper Paceman,Gasoline,Manual,122.0,2014
+11681,11681,11754,Mercedes-Benz,S 650,Gasoline,Automatic,630.0,2019
+12083,12083,12158,Peugeot,301,Gasoline,Manual,82.0,2018
+12312,12312,12390,Nissan,370Z,Gasoline,Automatic,328.0,2018
+12564,12564,12644,Volkswagen,T6.1 Multivan,Diesel,Automatic,150.0,2020
+12592,12592,12672,Volvo,C70,Diesel,Manual,177.0,2011
+12925,12925,13008,Mercedes-Benz,GLE 43 AMG,Gasoline,Automatic,390.0,2017
+13256,13256,13340,MINI,Cooper D Paceman,Diesel,Automatic,111.0,2013
+13350,13350,13434,Volkswagen,T4 Allstar,Gasoline,Manual,75.0,2017
+13376,13376,13461,SsangYong,MUSSO,Diesel,Manual,181.0,2020
+13678,13678,13763,MINI,Cooper SD Paceman,Diesel,Automatic,143.0,2014
+14513,14513,14602,Abarth,Punto EVO,Gasoline,Manual,163.0,2012
+15077,15077,15175,Lada,Vesta,Gasoline,Manual,102.0,2019
+15141,15141,15239,MINI,Cooper S Roadster,Gasoline,Manual,184.0,2012
+15364,15364,15462,Volkswagen,T5 Shuttle,Diesel,Manual,140.0,2013
+15504,15504,15603,Mercedes-Benz,GLB 250,Gasoline,Automatic,224.0,2020
+15989,15989,16090,Lexus,GS 250,Gasoline,Automatic,209.0,2012
+16328,16328,16429,Maybach,Pullman,Gasoline,Automatic,530.0,2018
+16364,16364,16466,BMW,Z4 M,Gasoline,Manual,197.0,2020
+17048,17048,17155,Lada,Priora,Gasoline,Manual,98.0,2011
+17079,17079,17186,Mercedes-Benz,GLK 200,Diesel,Manual,143.0,2013
+17515,17515,17624,Lexus,IS 300,Electric/Gasoline,Automatic,181.0,2013
+17933,17933,18045,Citroen,C6,Diesel,Automatic,241.0,2012
+18140,18140,18252,Mercedes-Benz,CLS 500,Gasoline,Automatic,408.0,2012
+18306,18306,18419,Ferrari,812,Gasoline,Automatic,799.0,2021
+18366,18366,18479,Ferrari,FF,Gasoline,Automatic,659.0,2013
+18539,18539,18653,Chrysler,300C,Diesel,Automatic,218.0,2011
+18554,18554,18668,Chrysler,Aspen,Gasoline,Automatic,340.0,2012
+18607,18607,18721,Suzuki,Jimny,Gasoline,Manual,86.0,2014
+18618,18618,18732,BMW,214,Diesel,Manual,95.0,2015
+18766,18766,18880,Mercedes-Benz,G,Diesel,Automatic,204.0,2013
+19134,19134,19249,Ferrari,F8 Tributo,Gasoline,Automatic,721.0,2021
+19296,19296,19414,BMW,X7 M,Diesel,Automatic,400.0,2020
+19332,19332,19451,BMW,M5,Gasoline,Automatic,560.0,2012
+19335,19335,19454,Mercedes-Benz,CL 500,Gasoline,Automatic,435.0,2012
+19514,19514,19635,Peugeot,407,Diesel,Manual,109.0,2011
+19524,19524,19645,Alfa,Romeo Sportwagon,Diesel,Manual,170.0,2011
+19620,19620,19742,DS,Automobiles DS 3,Gasoline,Manual,82.0,2016
+20173,20173,20296,Brilliance,BS4,LPG,Manual,101.0,2011
+20246,20246,20369,Toyota,GT86,Gasoline,Manual,280.0,2015
+20425,20425,20548,Dodge,Grand Caravan,Gasoline,Automatic,287.0,2015
+20779,20779,20903,Mercedes-Benz,CLS 63 AMG,Gasoline,Automatic,557.0,2011
+20832,20832,20956,Lexus,LS 600,Electric/Gasoline,Automatic,445.0,2013
+20850,20850,20974,MINI,Cooper SD Coupe,Diesel,Manual,143.0,2014
+20861,20861,20985,Volvo,S80,Diesel,Automatic,181.0,2015
+21248,21248,21374,Mercedes-Benz,300,Electric/Diesel,Automatic,204.0,2012
+21454,21454,21583,Jaguar,XKR,Gasoline,Automatic,551.0,2012
+21492,21492,21622,BMW,518,Diesel,Automatic,143.0,2014
+21545,21545,21675,Ferrari,F12,Gasoline,Automatic,775.0,2017
+21655,21655,21785,Honda,Accord,Gasoline,Automatic,156.0,2011
+22103,22103,22237,Piaggio,Porter,Gasoline,Manual,71.0,2012
+22147,22147,22281,Microcar,Due,Diesel,Automatic,10.0,2014
+22304,22304,22438,Dodge,Caliber,Gasoline,Manual,156.0,2011
+22323,22323,22457,FISKER,Karma,Electric/Gasoline,Automatic,408.0,2012
+22330,22330,22464,Lamborghini,Gallardo,Gasoline,Automatic,560.0,2013
+22529,22529,22664,Jaguar,XK,Gasoline,Automatic,385.0,2014
+22567,22567,22702,Volvo,S60 Cross Country,Diesel,Automatic,190.0,2016
+22790,22790,22926,Mercedes-Benz,GLA 45 AMG,Gasoline,Automatic,381.0,2016
+22836,22836,22972,MINI,John Cooper Works Clubman,Gasoline,Automatic,231.0,2018
+22903,22903,23039,BMW,323,Gasoline,Automatic,190.0,2011
+23390,23390,23528,SsangYong,Rodius,Diesel,Automatic,155.0,2014
+23759,23759,23899,Dodge,Journey,Diesel,Manual,140.0,2011
+24010,24010,24150,Fiat,Linea,Gasoline,Manual,77.0,2012
+24062,24062,24203,Alpina,D3,Diesel,Automatic,349.0,2015
+24070,24070,24211,Lamborghini,Aventador,Gasoline,Automatic,700.0,2015
+24225,24225,24366,Others,Landwind,Gasoline,Manual,97.0,2012
+24245,24245,24386,Mercedes-Benz,ML 250,Diesel,Automatic,204.0,2013
+24604,24604,24746,Mercedes-Benz,SLK 250,Gasoline,Automatic,204.0,2011
+24605,24605,24747,Porsche,997,Gasoline,Automatic,345.0,2011
+24630,24630,24772,Mercedes-Benz,GLK 220,Diesel,Automatic,170.0,2012
+24642,24642,24784,Mercedes-Benz,CLS,Diesel,Automatic,265.0,2013
+24672,24672,24814,Morgan,Roadster,Gasoline,Manual,286.0,2014
+24728,24728,24870,BMW,528,Gasoline,Automatic,245.0,2017
+24762,24762,24904,Lexus,UX 200,Gasoline,Automatic,171.0,2019
+25070,25070,25217,Rolls-Royce,Wraith,Gasoline,Automatic,632.0,2014
+25103,25103,25250,Mitsubishi,Pajero,Diesel,Automatic,190.0,2015
+25318,25318,25468,BMW,760,Gasoline,Automatic,544.0,2016
+25694,25694,25846,Mercedes-Benz,SL 500,Gasoline,Automatic,435.0,2014
+25855,25855,26010,Mercedes-Benz,CLC,Gasoline,Manual,184.0,2011
+25911,25911,26066,Mercedes-Benz,SL 350,Gasoline,Automatic,306.0,2014
+26111,26111,26269,MINI,Clubvan,Diesel,Manual,111.0,2013
+26202,26202,26361,BMW,M850,Gasoline,Automatic,530.0,2018
+26278,26278,26441,Daihatsu,Cuore,Gasoline,Manual,69.0,2011
+26365,26365,26528,Mercedes-Benz,ML 350,Diesel,Automatic,258.0,2015
+26366,26366,26529,Lamborghini,Huracan,Gasoline,Automatic,610.0,2015
+26406,26406,26569,Toyota,Mirai,Hydrogen,Automatic,154.0,2017
+26484,26484,26648,Lexus,ES 300,Electric/Gasoline,Automatic,218.0,2021
+26490,26490,26654,Renault,Alaskan,Diesel,Automatic,190.0,2021
+26790,26790,26958,Volkswagen,T5 California,Diesel,Manual,140.0,2015
+26885,26885,27056,Nissan,NP300,Diesel,Automatic,190.0,2021
+26916,26916,27087,Daihatsu,Charade,Gasoline,Manual,99.0,2012
+26966,26966,27138,smart,city-coupé/city-cabrio,Gasoline,Automatic,71.0,2014
+27054,27054,27227,Audi,SQ8,Diesel,Automatic,435.0,2019
+27143,27143,27317,Nissan,Primastar,Diesel,Manual,90.0,2012
+27226,27226,27402,Fiat,Fullback,Diesel,Automatic,181.0,2018
+27387,27387,27564,MINI,Cooper SD Cabrio,Diesel,Automatic,143.0,2015
+27406,27406,27583,Dodge,Viper,Gasoline,Manual,649.0,2016
+27407,27407,27584,McLaren,675LT,Gasoline,Automatic,674.0,2016
+27458,27458,27636,Audi,S1,Gasoline,Manual,231.0,2018
+27751,27751,27931,Daihatsu,Terios,Gasoline,Manual,105.0,2011
+28134,28134,28321,Peugeot,RCZ,Gasoline,Manual,156.0,2011
+28325,28325,28513,Volkswagen,T6.1 Transporter,Diesel,Manual,90.0,2021
+28497,28497,28685,Volkswagen,New Beetle,Gasoline,Manual,105.0,2018
+28511,28511,28699,Mitsubishi,Eclipse,Gasoline,Automatic,163.0,2019
+28557,28557,28745,Mercedes-Benz,EQC 400,Electric,Automatic,408.0,2021
+29062,29062,29255,Mercedes-Benz,S 600,Gasoline,Automatic,530.0,2015
+29150,29150,29345,Abarth,595 Competizione,Gasoline,Manual,179.0,2019
+29318,29318,29513,Mercedes-Benz,E 43 AMG,Gasoline,Automatic,401.0,2017
+29548,29548,29743,Citroen,C4 SpaceTourer,Diesel,Manual,131.0,2018
+29648,29648,29844,Lancia,MUSA,Gasoline,Manual,95.0,2012
+29779,29779,29976,BMW,840,Diesel,Automatic,320.0,2019
+29783,29783,29980,BMW,X7,Gasoline,Automatic,530.0,2019
+29829,29829,30027,Lexus,LC 500,Gasoline,Automatic,464.0,2021
+29830,29830,30028,Lexus,LS 500,Electric/Gasoline,Automatic,359.0,2021
+30149,30149,30349,Mercedes-Benz,SLC 250,Diesel,Automatic,204.0,2016
+30272,30272,30474,Citroen,C8,Diesel,Manual,136.0,2011
+30469,30469,30672,Audi,RS Q8,Gasoline,Automatic,740.0,2021
+30550,30550,30753,Lada,Taiga,Gasoline,Manual,83.0,2014
+30640,30640,30844,Toyota,Proace,Diesel,Automatic,177.0,2019
+30669,30669,30873,Mercedes-Benz,GLC 200,Diesel,Automatic,163.0,2020
+30806,30806,31012,Lexus,NX 300,Electric/Gasoline,Automatic,197.0,2017
+30995,30995,31204,Volkswagen,Transporter,Diesel,Manual,84.0,2016
+31018,31018,31227,SsangYong,XLV,Diesel,Manual,116.0,2017
+31502,31502,31714,Toyota,Camry,Electric/Gasoline,Automatic,218.0,2020
+31505,31505,31717,Lexus,UX 250h,Electric/Gasoline,Automatic,184.0,2020
+31519,31519,31731,Lexus,LX 570,Gasoline,Automatic,367.0,2021
+31662,31662,31874,Audi,R8,Gasoline,Automatic,610.0,2018
+31692,31692,31906,Audi,Q8,Diesel,Automatic,286.0,2019
+31693,31693,31907,Lamborghini,Urus,Gasoline,Automatic,650.0,2019
+31722,31722,31936,Toyota,Highlander,Others,Automatic,247.0,2021
+31738,31738,31952,Ford,Transit Bus,Diesel,Manual,101.0,2011
+31871,31871,32087,Infiniti,Q60,Gasoline,Automatic,405.0,2017
+31948,31948,32164,SsangYong,REXTON,Diesel,Automatic,201.0,2021
+32231,32231,32449,MINI,Cooper D Clubman,Diesel,Manual,111.0,2014
+32341,32341,32559,Lexus,RX 450h,Electric/Gasoline,Automatic,313.0,2019
+32370,32370,32589,Mercedes-Benz,GLB 180,Gasoline,Automatic,136.0,2021
+32500,32500,32719,Hyundai,Grand Santa Fe,Diesel,Automatic,200.0,2017
+32533,32533,32752,BMW,140,Gasoline,Automatic,340.0,2018
+32701,32701,32920,Mercedes-Benz,CLS 250,Diesel,Automatic,204.0,2016
+32772,32772,32991,DS,Automobiles DS 3 Crossback,Electric,Automatic,136.0,2020
+32798,32798,33017,Volkswagen,ID.4,Electric,Automatic,204.0,2021
+33179,33179,33399,MINI,One Countryman,Gasoline,Manual,102.0,2018
+33563,33563,33785,Toyota,Land Cruiser,Gasoline,Automatic,339.0,2017
+33760,33760,33983,Volkswagen,Polo Cross,Gasoline,Manual,105.0,2011
+33771,33771,33994,Honda,CR-Z,Electric/Gasoline,Manual,114.0,2011
+33991,33991,34215,Renault,Latitude,Diesel,Automatic,241.0,2011
+33998,33998,34222,Volkswagen,Cross Touran,Diesel,Manual,105.0,2011
+34043,34043,34267,Ford,Fusion,Gasoline,Manual,101.0,2011
+34130,34130,34355,Suzuki,Kizashi,Gasoline,Manual,178.0,2011
+34181,34181,34406,BMW,123,Diesel,Manual,204.0,2011
+34198,34198,34423,Suzuki,Grand Vitara,Gasoline,Automatic,169.0,2011
+34214,34214,34439,Volvo,C30,Diesel,Manual,114.0,2011
+34257,34257,34482,Volvo,S40,Diesel,Manual,150.0,2011
+34288,34288,34513,Hyundai,Getz,Gasoline,Manual,67.0,2011
+34294,34294,34519,Bentley,Mulsanne,Gasoline,Automatic,513.0,2011
+34325,34325,34550,Iveco,Daily,Diesel,Manual,126.0,2011
+34349,34349,34574,Infiniti,EX30,Diesel,Automatic,238.0,2011
+34388,34388,34613,Mazda,CX-7,Diesel,Manual,173.0,2011
+34423,34423,34649,smart,brabus,Gasoline,Automatic,102.0,2011
+34440,34440,34666,Honda,Insight,Electric/Gasoline,Automatic,98.0,2011
+34462,34462,34688,Kia,Carnival,Diesel,Manual,150.0,2011
+34485,34485,34712,Mercedes-Benz,ML 300,Diesel,Automatic,204.0,2011
+34497,34497,34724,Volkswagen,Fox,Gasoline,Manual,60.0,2011
+34545,34545,34773,Daihatsu,Sirion,Gasoline,Manual,91.0,2011
+34622,34622,34851,Mitsubishi,I-MiEV,Electric,Automatic,48.0,2011
+34746,34746,34975,Volvo,V50,Diesel,Manual,114.0,2011
+34804,34804,35033,Subaru,Trezia,Diesel,Automatic,90.0,2012
+34959,34959,35189,Volkswagen,Eos,Gasoline,Manual,122.0,2012
+34992,34992,35222,MINI,Cooper S Coupe,Gasoline,Manual,184.0,2012
+35010,35010,35240,Renault,Modus,Gasoline,Manual,75.0,2012
+35056,35056,35286,SEAT,Exeo,Diesel,Manual,143.0,2012
+35073,35073,35304,SEAT,Altea XL,Gasoline,Manual,105.0,2012
+35169,35169,35403,MINI,One Cabrio,Gasoline,Manual,98.0,2012
+35192,35192,35427,Mercedes-Benz,R 300,Diesel,Automatic,190.0,2012
+35231,35231,35466,MINI,Cooper SD Clubman,Diesel,Manual,143.0,2012
+35240,35240,35475,Volkswagen,Jetta,Diesel,Manual,105.0,2012
+35277,35277,35512,Chevrolet,Malibu,Diesel,Manual,160.0,2012
+35297,35297,35532,Citroen,C-Zero,Electric,Automatic,48.0,2012
+35298,35298,35533,Subaru,Legacy,Diesel,Manual,150.0,2012
+35306,35306,35541,MINI,Cooper S Paceman,Gasoline,Manual,184.0,2012
+35347,35347,35582,Nissan,Pathfinder,Diesel,Manual,190.0,2012
+35371,35371,35606,BMW,523,Gasoline,Manual,204.0,2012
+35399,35399,35634,McLaren,MP4-12C,Gasoline,Automatic,625.0,2012
+35422,35422,35658,Chevrolet,Volt,Electric/Gasoline,Automatic,151.0,2012
+35436,35436,35673,Fiat,Grande Punto,Gasoline,Manual,69.0,2012
+35453,35453,35690,MINI,One D Countryman,Diesel,Manual,90.0,2012
+35458,35458,35695,MINI,Cooper SD Countryman,Diesel,Manual,143.0,2012
+35464,35464,35701,Hyundai,Veloster,Gasoline,Manual,140.0,2012
+35500,35500,35738,Mercedes-Benz,GLK 250,Diesel,Automatic,204.0,2012
+35509,35509,35747,Mercedes-Benz,R 350,Diesel,Automatic,265.0,2012
+35532,35532,35770,Renault,Grand Espace,Diesel,Automatic,173.0,2012
+35537,35537,35776,Audi,S4,Gasoline,Automatic,333.0,2012
+35548,35548,35787,Suzuki,Alto,Gasoline,Manual,68.0,2012
+35564,35564,35803,Renault,Wind,Gasoline,Manual,102.0,2012
+35649,35649,35888,BMW,328,Gasoline,Manual,245.0,2012
+35717,35717,35956,Peugeot,206,Gasoline,Manual,60.0,2012
+35750,35750,35989,Renault,Grand Modus,Diesel,Manual,88.0,2012
+35865,35865,36107,Peugeot,807,Diesel,Manual,136.0,2012
+35887,35887,36129,Alfa,Romeo 159,Diesel,Manual,170.0,2012
+35899,35899,36141,Fiat,Sedici,Gasoline,Automatic,120.0,2012
+35935,35935,36177,MINI,Cooper D Cabrio,Diesel,Manual,111.0,2012
+35964,35964,36207,Citroen,C4 Aircross,Diesel,Manual,114.0,2013
+36186,36186,36430,Mercedes-Benz,A 160,Gasoline,Automatic,95.0,2013
+36302,36302,36547,Mercedes-Benz,C 350,Diesel,Automatic,265.0,2013
+36370,36370,36616,MINI,Cooper Coupe,Gasoline,Manual,122.0,2013
+36389,36389,36637,Lancia,Delta,Gasoline,Manual,140.0,2013
+36409,36409,36657,Mercedes-Benz,250,Gasoline,Automatic,204.0,2013
+36484,36484,36733,Nissan,Murano,Diesel,Automatic,190.0,2013
+36491,36491,36740,Nissan,Qashqai+2,Diesel,Manual,131.0,2013
+36522,36522,36771,Isuzu,D-Max,Diesel,Manual,163.0,2013
+36534,36534,36783,BMW,428,Gasoline,Manual,245.0,2013
+36535,36535,36784,Land,Rover Freelander,Diesel,Manual,150.0,2013
+36544,36544,36794,Mercedes-Benz,SLS,Gasoline,Automatic,571.0,2013
+36547,36547,36797,MINI,Cooper Roadster,Gasoline,Manual,122.0,2013
+36550,36550,36800,Mercedes-Benz,E 500,Gasoline,Automatic,408.0,2013
+36557,36557,36807,Chevrolet,Spark,Gasoline,Manual,82.0,2013
+36559,36559,36809,Nissan,Pixo,Gasoline,Automatic,68.0,2013
+36631,36631,36881,Chevrolet,Trax,Gasoline,Manual,116.0,2013
+36635,36635,36885,Mercedes-Benz,SLK 200,Gasoline,Manual,184.0,2013
+36647,36647,36897,Mercedes-Benz,Viano,Diesel,Automatic,224.0,2013
+36651,36651,36901,BMW,535,Diesel,Automatic,313.0,2013
+36690,36690,36940,Mercedes-Benz,GLK 350,Diesel,Automatic,265.0,2013
+36712,36712,36962,Chevrolet,Aveo,Diesel,Manual,75.0,2013
+36731,36731,36982,Cadillac,ATS,Gasoline,Manual,276.0,2013
+36747,36747,36998,BMW,650,Gasoline,Automatic,449.0,2013
+36800,36800,37051,Peugeot,4008,Diesel,Manual,150.0,2013
+36852,36852,37104,Ferrari,458,Gasoline,Automatic,570.0,2013
+36928,36928,37181,Lada,Niva,Gasoline,Manual,83.0,2013
+36964,36964,37217,Skoda,Praktik,Gasoline,Manual,69.0,2013
+36978,36978,37231,Opel,Agila,Gasoline,Automatic,94.0,2013
+36985,36985,37238,Chevrolet,Captiva,Diesel,Manual,184.0,2013
+37012,37012,37265,Mitsubishi,Colt,Gasoline,Manual,75.0,2013
+37079,37079,37332,Lada,Granta,Gasoline,Manual,87.0,2013
+37202,37202,37456,Toyota,Verso-S,Gasoline,Automatic,99.0,2014
+37308,37308,37563,Volkswagen,T5 Kombi,Diesel,Manual,102.0,2014
+37331,37331,37586,Subaru,Impreza,Gasoline,Manual,114.0,2014
+37334,37334,37589,Chevrolet,Orlando,Diesel,Manual,163.0,2014
+37418,37418,37673,Mazda,5,Gasoline,Manual,150.0,2014
+37425,37425,37680,MINI,Cooper D Countryman,Diesel,Manual,111.0,2014
+37428,37428,37683,Chevrolet,Cruze,Gasoline,Manual,140.0,2014
+37469,37469,37724,Toyota,Verso,Gasoline,Manual,132.0,2014
+37592,37592,37847,Toyota,Avensis,Gasoline,Manual,147.0,2014
+37604,37604,37859,Aixam,City,Electric,Automatic,5.0,2014
+37640,37640,37895,Opel,Cascada,Gasoline,Manual,120.0,2014
+37744,37744,38000,Chrysler,Town & Country,Gasoline,Automatic,287.0,2014
+37753,37753,38009,Volkswagen,Passat CC,Diesel,Automatic,140.0,2014
+37769,37769,38025,Mercedes-Benz,B 250,Gasoline,Automatic,211.0,2014
+37805,37805,38062,Fiat,Bravo,Gasoline,Manual,140.0,2014
+37825,37825,38082,Mercedes-Benz,GL 350,Diesel,Automatic,258.0,2014
+37826,37826,38083,Audi,S7,Gasoline,Automatic,420.0,2014
+37867,37867,38127,Porsche,911,Gasoline,Automatic,349.0,2014
+37905,37905,38165,Toyota,iQ,Gasoline,Manual,68.0,2014
+37944,37944,38204,Infiniti,Q70,Electric/Gasoline,Automatic,364.0,2014
+38138,38138,38399,Suzuki,Splash,Gasoline,Manual,94.0,2014
+38139,38139,38400,Lancia,Ypsilon,Gasoline,Manual,69.0,2014
+38140,38140,38401,Citroen,C5,Diesel,Manual,140.0,2014
+38307,38307,38569,Citroen,C3 Picasso,Diesel,Manual,99.0,2015
+38354,38354,38617,Fiat,Scudo,Diesel,Manual,128.0,2015
+38388,38388,38651,Mercedes-Benz,B 160,Diesel,Manual,90.0,2015
+38436,38436,38699,Volkswagen,T5,Diesel,Automatic,140.0,2015
+38456,38456,38719,BMW,114,Diesel,Manual,95.0,2015
+38558,38558,38823,Citroen,DS5,Diesel,Manual,150.0,2015
+38562,38562,38827,Subaru,XV,Gasoline,Automatic,114.0,2015
+38571,38571,38836,Volkswagen,T5 Transporter,Diesel,Manual,102.0,2015
+38728,38728,38994,Suzuki,SX4,Gasoline,Manual,120.0,2015
+38730,38730,38996,Renault,Laguna,Diesel,Manual,173.0,2015
+38753,38753,39019,Infiniti,Q50,Diesel,Automatic,170.0,2015
+38792,38792,39058,Fiat,Freemont,Diesel,Manual,170.0,2015
+38800,38800,39066,Peugeot,207,Gasoline,Manual,120.0,2015
+38818,38818,39084,SEAT,Altea,Diesel,Manual,105.0,2015
+38834,38834,39100,Subaru,OUTBACK,Gasoline,Automatic,175.0,2015
+38848,38848,39116,Citroen,DS4,Gasoline,Manual,131.0,2015
+38851,38851,39119,MINI,Cooper Countryman,Gasoline,Manual,122.0,2015
+38881,38881,39149,Aston,Martin Vantage,Gasoline,Automatic,572.0,2015
+38896,38896,39164,Volkswagen,T5 Caravelle,Diesel,Manual,140.0,2015
+38899,38899,39167,Volvo,V70,Diesel,Automatic,215.0,2015
+38901,38901,39169,Dodge,Challenger,Gasoline,Automatic,309.0,2015
+38914,38914,39182,Hyundai,iX35,Diesel,Manual,116.0,2015
+38929,38929,39197,Volkswagen,Amarok,Diesel,Manual,140.0,2015
+38962,38962,39230,Rolls-Royce,Ghost,Gasoline,Automatic,571.0,2015
+38972,38972,39240,Peugeot,Bipper,Diesel,Manual,75.0,2015
+39036,39036,39306,Volkswagen,Phaeton,Gasoline,Automatic,334.0,2015
+39037,39037,39307,Volkswagen,T5 Multivan,Diesel,Automatic,179.0,2015
+39044,39044,39314,Mercedes-Benz,CLS 400,Gasoline,Automatic,333.0,2015
+39118,39118,39390,Fiat,Ducato,Diesel,Manual,116.0,2015
+39136,39136,39408,Mercedes-Benz,CLS 220,Diesel,Automatic,170.0,2015
+39137,39137,39409,Lexus,GS 450h,Electric/Gasoline,Automatic,345.0,2015
+39141,39141,39413,Mercedes-Benz,GL 63 AMG,Gasoline,Automatic,557.0,2015
+39148,39148,39420,Skoda,Roomster,Gasoline,Manual,69.0,2015
+39235,39235,39507,Mitsubishi,Lancer,Gasoline,Manual,117.0,2015
+39255,39255,39527,Volkswagen,CC,Gasoline,Automatic,299.0,2015
+39261,39261,39533,Peugeot,107,Gasoline,Manual,68.0,2015
+39321,39321,39593,Mercedes-Benz,CLS 350,Diesel,Automatic,258.0,2016
+39342,39342,39614,Opel,Antara,Diesel,Manual,170.0,2016
+39362,39362,39634,Piaggio,Ape,Gasoline,Manual,11.0,2016
+39385,39385,39658,Ferrari,488,Gasoline,Automatic,670.0,2016
+39429,39429,39702,SsangYong,Korando,Diesel,Automatic,178.0,2016
+39440,39440,39713,Volkswagen,Golf Cabriolet,Gasoline,Automatic,125.0,2016
+39489,39489,39763,Mercedes-Benz,SLK 300,Gasoline,Automatic,245.0,2016
+39498,39498,39772,Mercedes-Benz,S 500,Gasoline,Automatic,455.0,2016
+39511,39511,39785,SsangYong,Tivoli,Gasoline,Manual,128.0,2016
+39556,39556,39830,Dodge,Dart,Gasoline,Automatic,188.0,2016
+39626,39626,39900,Volkswagen,Polo GTI,Gasoline,Manual,192.0,2016
+39648,39648,39922,Hyundai,Genesis,Gasoline,Automatic,315.0,2016
+39656,39656,39930,Citroen,Nemo,Diesel,Manual,75.0,2016
+39673,39673,39947,Nissan,NV200,Diesel,Manual,110.0,2016
+39952,39952,40226,MINI,Cooper Clubman,Gasoline,Automatic,136.0,2016
+39988,39988,40262,DS,Automobiles DS 5,Diesel,Automatic,181.0,2016
+40043,40043,40317,Mercedes-Benz,GLE 450,Gasoline,Automatic,367.0,2016
+40064,40064,40338,Volvo,XC70,Diesel,Manual,163.0,2016
+40091,40091,40365,Ligier,JS 50,Diesel,Automatic,5.0,2016
+40115,40115,40389,Skoda,Yeti,Gasoline,Automatic,110.0,2016
+40122,40122,40396,Honda,HR-V,Gasoline,Manual,131.0,2016
+40145,40145,40419,BMW,125,Gasoline,Automatic,224.0,2016
+40153,40153,40427,Audi,RS Q3,Gasoline,Automatic,430.0,2016
+40157,40157,40431,BMW,M6,Gasoline,Automatic,600.0,2016
+40169,40169,40443,Volkswagen,Scirocco,Gasoline,Automatic,179.0,2016
+40179,40179,40453,Opel,Movano,Diesel,Manual,131.0,2016
+40186,40186,40460,Peugeot,Partner,Diesel,Manual,75.0,2016
+40192,40192,40466,Renault,Rapid,Gasoline,Manual,114.0,2016
+40204,40204,40478,Alfa,Romeo MiTo,Diesel,Manual,95.0,2016
+40206,40206,40480,Citroen,Jumper,Diesel,Manual,131.0,2016
+40350,40350,40625,Opel,Zafira Tourer,Diesel,Automatic,131.0,2016
+40393,40393,40670,Honda,Odyssey,Gasoline,Automatic,283.0,2016
+40435,40435,40712,Mercedes-Benz,GLS 350,Diesel,Automatic,258.0,2017
+40482,40482,40760,BMW,X6 M,Gasoline,Automatic,575.0,2017
+40485,40485,40763,BMW,i8,Electric/Gasoline,Automatic,362.0,2017
+40486,40486,40764,Alpina,B7,Gasoline,Automatic,608.0,2017
+40489,40489,40767,Aston,Martin Rapide,Gasoline,Automatic,560.0,2017
+40491,40491,40769,McLaren,570S,Gasoline,Automatic,570.0,2017
+40494,40494,40772,Peugeot,iOn,Electric,Automatic,48.0,2017
+40551,40551,40829,Hyundai,H-1,Diesel,Automatic,170.0,2017
+40575,40575,40853,Mercedes-Benz,G 350,Diesel,Automatic,245.0,2017
+40765,40765,41044,Citroen,C-Elysée,Gasoline,Manual,116.0,2017
+40857,40857,41137,Opel,Meriva,Gasoline,Manual,140.0,2017
+40858,40858,41138,Nissan,Pulsar,Diesel,Manual,110.0,2017
+40899,40899,41179,Audi,RS7,Gasoline,Automatic,605.0,2017
+40916,40916,41196,MINI,One D Clubman,Diesel,Manual,116.0,2017
+40945,40945,41225,Honda,NSX,Gasoline,Automatic,581.0,2017
+41021,41021,41301,Renault,Twizy,Electric,Automatic,11.0,2017
+41052,41052,41332,Microcar,M.Go,Diesel,Automatic,8.0,2017
+41057,41057,41337,Nissan,Note,Gasoline,Manual,98.0,2017
+41063,41063,41343,Fiat,124 Spider,Gasoline,Manual,140.0,2017
+41086,41086,41366,Ford,B-Max,Gasoline,Automatic,105.0,2017
+41186,41186,41467,Citroen,DS3,Gasoline,Automatic,110.0,2017
+41266,41266,41547,BMW,325,Diesel,Automatic,224.0,2017
+41278,41278,41559,MINI,Cooper S Cabrio,Gasoline,Automatic,192.0,2017
+41310,41310,41591,Kia,Soul,Diesel,Automatic,136.0,2017
+41313,41313,41594,Mercedes-Benz,E 250,Gasoline,Automatic,211.0,2017
+41328,41328,41609,Aston,Martin,Gasoline,Automatic,604.0,2017
+41330,41330,41611,Mercedes-Benz,GLE 250,Diesel,Automatic,204.0,2017
+41366,41366,41647,BMW,335,Diesel,Automatic,313.0,2017
+41384,41384,41665,Tesla,Model X,Electric,Automatic,333.0,2017
+41385,41385,41666,Alpina,B5,Gasoline,Automatic,608.0,2017
+41386,41386,41667,Lada,Kalina,Gasoline,Manual,98.0,2017
+41441,41441,41724,MINI,Cooper S Clubman,Gasoline,Manual,192.0,2017
+41464,41464,41747,BMW,418,Diesel,Manual,150.0,2017
+41472,41472,41755,Tesla,Model S,Electric,Automatic,532.0,2017
+41495,41495,41778,Mercedes-Benz,GLA 220,Diesel,Automatic,177.0,2017
+41496,41496,41779,Mercedes-Benz,GLC 220,Diesel,Automatic,170.0,2017
+41499,41499,41782,MINI,Cooper SD,Diesel,Automatic,190.0,2017
+41541,41541,41824,BMW,225,Electric/Gasoline,Automatic,224.0,2018
+41561,41561,41845,Subaru,Forester,Gasoline,Automatic,150.0,2018
+41634,41634,41918,Mercedes-Benz,V 200,Diesel,Automatic,163.0,2018
+41672,41672,41956,Lexus,RC 300h,Electric/Gasoline,Automatic,223.0,2018
+41694,41694,41978,Mercedes-Benz,A 45 AMG,Gasoline,Automatic,381.0,2018
+41700,41700,41984,Mercedes-Benz,GLE 500,Electric/Gasoline,Automatic,333.0,2018
+41724,41724,42008,Mercedes-Benz,CLA 45 AMG,Gasoline,Automatic,381.0,2018
+41733,41733,42017,BMW,M3,Gasoline,Automatic,431.0,2018
+41758,41758,42042,Baic,Senova X35,Gasoline,Manual,111.0,2018
+41761,41761,42045,Kia,Carens,Gasoline,Manual,135.0,2018
+41764,41764,42048,Baic,BJ20,Gasoline,Automatic,136.0,2018
+41778,41778,42062,Chrysler,Pacifica,LPG,Automatic,291.0,2018
+41781,41781,42065,Dodge,Durango,Gasoline,Automatic,481.0,2018
+41786,41786,42070,Audi,TT RS,Gasoline,Automatic,400.0,2018
+41837,41837,42122,Audi,RS6,Gasoline,Automatic,605.0,2018
+41839,41839,42124,Corvette,C7,Gasoline,Manual,635.0,2018
+41843,41843,42128,Maserati,GranCabrio,Gasoline,Automatic,460.0,2018
+41851,41851,42136,Dacia,Dokker,Gasoline,Manual,102.0,2018
+41883,41883,42168,Fiat,Punto Evo,Gasoline,Manual,69.0,2018
+41897,41897,42182,MINI,Cooper D,Diesel,Manual,150.0,2018
+41904,41904,42189,Toyota,Prius+,Electric/Gasoline,Automatic,136.0,2018
+41924,41924,42210,Peugeot,Boxer,Diesel,Manual,163.0,2018
+41982,41982,42268,MINI,One D,Diesel,Manual,95.0,2018
+41993,41993,42279,Ford,Ka/Ka+,Gasoline,Manual,86.0,2018
+42002,42002,42288,Fiat,Punto,Gasoline,Manual,77.0,2018
+42003,42003,42289,Fiat,Fiorino,Gasoline,Manual,77.0,2018
+42019,42019,42305,MINI,John Cooper Works,Gasoline,Automatic,231.0,2018
+42032,42032,42318,Ford,Grand C-Max,Diesel,Manual,150.0,2018
+42040,42040,42326,BMW,316,Diesel,Automatic,116.0,2018
+42071,42071,42357,BMW,M1,Gasoline,Automatic,340.0,2018
+42077,42077,42363,BMW,430,Gasoline,Manual,252.0,2018
+42097,42097,42383,SEAT,Toledo,Gasoline,Manual,110.0,2018
+42133,42133,42419,SEAT,Mii,Others,Manual,68.0,2018
+42203,42203,42490,BMW,X6,Diesel,Automatic,313.0,2018
+42209,42209,42496,MINI,One Clubman,Gasoline,Manual,102.0,2018
+42217,42217,42504,Volvo,V40 Cross Country,Diesel,Manual,120.0,2018
+42343,42343,42630,Volkswagen,Beetle,Gasoline,Manual,150.0,2018
+42347,42347,42634,MINI,Cooper S Countryman,Gasoline,Automatic,192.0,2018
+42361,42361,42648,Kia,Venga,Gasoline,Manual,125.0,2018
+42367,42367,42654,Opel,Zafira,Diesel,Automatic,131.0,2018
+42386,42386,42673,Mercedes-Benz,C 250,Diesel,Automatic,204.0,2018
+42419,42419,42706,Citroen,C4 Picasso,Gasoline,Automatic,131.0,2018
+42437,42437,42724,Audi,A4 allroad,Diesel,Automatic,163.0,2018
+42447,42447,42734,Maserati,Ghibli,Diesel,Automatic,275.0,2018
+42453,42453,42740,Audi,TTS,Gasoline,Automatic,310.0,2018
+42462,42462,42749,Kia,Sorento,Diesel,Automatic,170.0,2018
+42494,42494,42781,Hyundai,i40,Diesel,Manual,141.0,2018
+42523,42523,42810,Jaguar,XF,Diesel,Automatic,179.0,2018
+42530,42530,42817,BMW,550,Diesel,Automatic,400.0,2018
+42535,42535,42822,BMW,440,Gasoline,Automatic,326.0,2018
+42540,42540,42827,BMW,740,Diesel,Automatic,320.0,2018
+42552,42552,42839,Alfa,Romeo Quadrifoglio,Gasoline,Automatic,510.0,2018
+42557,42557,42844,Volkswagen,T6 Transporter,Diesel,Manual,102.0,2018
+42596,42596,42883,BMW,216,Diesel,Manual,116.0,2018
+42597,42597,42884,MINI,Cooper,Gasoline,Manual,136.0,2018
+42627,42627,42914,Opel,Ampera,Electric,Automatic,204.0,2018
+42634,42634,42921,Maserati,Levante,Gasoline,Automatic,430.0,2018
+42635,42635,42922,Jaguar,I-Pace,Electric,Automatic,400.0,2018
+42644,42644,42931,Suzuki,Celerio,Gasoline,Automatic,68.0,2018
+42646,42646,42933,Mercedes-Benz,CLS 450,Electric/Gasoline,Automatic,367.0,2019
+42651,42651,42938,Audi,SQ7,Diesel,Automatic,435.0,2019
+42658,42658,42945,Fiat,Qubo,Gasoline,Manual,77.0,2019
+42664,42664,42951,Citroen,Jumpy,Diesel,Manual,122.0,2019
+42679,42679,42966,Mercedes-Benz,SLC 180,Gasoline,Manual,156.0,2019
+42725,42725,43012,Ford,Flex,Gasoline,Automatic,314.0,2019
+42732,42732,43019,Mercedes-Benz,GLC 350,Diesel,Automatic,258.0,2019
+42736,42736,43023,Dodge,Charger,Gasoline,Automatic,309.0,2019
+42739,42739,43026,Mercedes-Benz,GLC 43 AMG,Gasoline,Automatic,367.0,2019
+42766,42766,43053,MINI,John Cooper Works Countryman,Gasoline,Automatic,306.0,2019
+42775,42775,43062,BMW,435,Diesel,Automatic,313.0,2019
+42776,42776,43063,BMW,640,Diesel,Automatic,320.0,2019
+42792,42792,43079,Chevrolet,Silverado,Gasoline,Automatic,355.0,2019
+42794,42794,43081,Audi,A8,Diesel,Automatic,286.0,2019
+42800,42800,43087,Cadillac,CTS,Gasoline,Automatic,649.0,2019
+42822,42822,43109,Mercedes-Benz,C 43 AMG,Gasoline,Automatic,390.0,2019
+42831,42831,43118,Mercedes-Benz,GLC 63 AMG,Gasoline,Automatic,476.0,2019
+42832,42832,43119,Mercedes-Benz,E 53 AMG,Gasoline,Automatic,435.0,2019
+42833,42833,43120,Mercedes-Benz,E 63 AMG,Gasoline,Automatic,571.0,2019
+42834,42834,43121,BMW,750,Diesel,Automatic,400.0,2019
+42837,42837,43124,BMW,M8,Gasoline,Automatic,625.0,2019
+42839,42839,43126,Mercedes-Benz,G 63 AMG,Gasoline,Automatic,850.0,2019
+42840,42840,43127,McLaren,600LT,Gasoline,Automatic,600.0,2019
+42841,42841,43128,McLaren,720S,Gasoline,Automatic,721.0,2019
+42853,42853,43140,Corvette,Z06,Gasoline,Automatic,767.0,2019
+42943,42943,43232,Toyota,Prius,Electric/Gasoline,Automatic,98.0,2019
+42947,42947,43236,Nissan,E-NV200,Electric,Automatic,109.0,2019
+42955,42955,43245,Alpina,XD3,Diesel,Automatic,387.0,2019
+42957,42957,43247,BMW,X5 M,Diesel,Automatic,400.0,2019
+42959,42959,43249,Mercedes-Benz,E 350,Diesel,Automatic,258.0,2019
+42968,42968,43258,BMW,X4,Diesel,Automatic,265.0,2019
+42969,42969,43259,Land,Rover Discovery,Diesel,Automatic,306.0,2019
+42972,42972,43262,Mercedes-Benz,G 400,Diesel,Automatic,330.0,2019
+42975,42975,43266,Skoda,Rapid/Spaceback,Gasoline,Manual,95.0,2019
+42998,42998,43289,Mercedes-Benz,G 500,Gasoline,Automatic,421.0,2019
+42999,42999,43290,Mercedes-Benz,S 63 AMG,Gasoline,Automatic,612.0,2019
+43057,43057,43349,Dacia,Logan,Gasoline,Manual,73.0,2019
+43087,43087,43380,Ford,Tourneo,Diesel,Automatic,120.0,2019
+43151,43151,43444,Estrima,Birò,Electric,Automatic,5.0,2019
+43205,43205,43500,Suzuki,Baleno,Gasoline,Manual,111.0,2019
+43211,43211,43506,Toyota,Auris,Electric/Gasoline,Automatic,136.0,2019
+43240,43240,43535,Renault,Kangoo Z.E.,Electric,Automatic,60.0,2019
+43254,43254,43549,Infiniti,Q30,Diesel,Manual,109.0,2019
+43312,43312,43607,RAM,1500,Gasoline,Automatic,401.0,2019
+43373,43373,43671,Opel,Adam,Gasoline,Manual,101.0,2019
+43418,43418,43717,Opel,Mokka X,Gasoline,Automatic,140.0,2019
+43435,43435,43734,Hyundai,iX20,Gasoline,Automatic,125.0,2019
+43436,43436,43735,Citroen,C3 Aircross,Gasoline,Manual,110.0,2019
+43442,43442,43741,Renault,Master,Diesel,Manual,145.0,2019
+43443,43443,43742,Lexus,CT 200h,Electric/Gasoline,Automatic,136.0,2019
+43503,43503,43803,BMW,230,Gasoline,Automatic,252.0,2019
+43504,43504,43804,Kia,Optima,Electric/Gasoline,Automatic,205.0,2019
+43510,43510,43810,BMW,525,Diesel,Automatic,231.0,2019
+43516,43516,43816,Volvo,S60,Gasoline,Automatic,249.0,2019
+43530,43530,43830,Subaru,Levorg,Gasoline,Automatic,170.0,2019
+43548,43548,43848,Volvo,V40,Gasoline,Automatic,152.0,2019
+43603,43603,43905,Porsche,991,Gasoline,Automatic,450.0,2019
+43650,43650,43952,Kia,Stonic,Gasoline,Automatic,120.0,2019
+43667,43667,43969,Jeep,Cherokee,Diesel,Automatic,194.0,2019
+43673,43673,43975,Land,Rover Discovery Sport,Gasoline,Automatic,241.0,2019
+43686,43686,43988,Mercedes-Benz,GLC 250,Gasoline,Automatic,211.0,2019
+43698,43698,44000,Mercedes-Benz,B 180,Diesel,Automatic,116.0,2019
+43704,43704,44006,Toyota,Hilux,Diesel,Automatic,150.0,2019
+43708,43708,44010,Audi,Q7,Diesel,Automatic,286.0,2019
+43713,43713,44015,Ford,C-Max,Gasoline,Manual,125.0,2019
+43725,43725,44028,Tesla,Model 3,Electric,Automatic,487.0,2019
+43738,43738,44041,Jaguar,XJ,Diesel,Automatic,300.0,2019
+43745,43745,44048,Land,Rover Range Rover Velar,Diesel,Automatic,300.0,2019
+43761,43761,44064,Toyota,RAV 4,Gasoline,Automatic,218.0,2019
+43842,43842,44146,Volkswagen,T6 Caravelle,Diesel,Automatic,150.0,2020
+43893,43893,44197,Volkswagen,Golf Plus,Gasoline,Automatic,300.0,2020
+43906,43906,44210,Volkswagen,ID.3,Electric,Automatic,204.0,2020
+43915,43915,44220,Suzuki,Across,Electric/Gasoline,Automatic,185.0,2020
+43935,43935,44240,Citroen,Grand C4 SpaceTourer,Diesel,Automatic,131.0,2020
+43952,43952,44257,Jeep,Grand Cherokee,Diesel,Automatic,250.0,2020
+43954,43954,44259,Audi,A7,Diesel,Automatic,286.0,2020
+43959,43959,44264,Volkswagen,Passat Alltrack,Diesel,Automatic,190.0,2020
+43960,43960,44265,Kia,Stinger,Gasoline,Automatic,366.0,2020
+43964,43964,44269,Ford,Edge,Diesel,Automatic,238.0,2020
+43966,43966,44271,BMW,630,Diesel,Automatic,265.0,2020
+44006,44006,44313,Volkswagen,T6.1 California,Diesel,Automatic,199.0,2020
+44013,44013,44320,Bentley,Continental,Gasoline,Automatic,549.0,2020
+44015,44015,44322,Audi,RS3,Gasoline,Automatic,400.0,2020
+44074,44074,44383,Mercedes-Benz,S 350,Diesel,Automatic,286.0,2020
+44076,44076,44385,Audi,SQ5,Diesel,Automatic,347.0,2020
+44079,44079,44388,Audi,RS4,Gasoline,Automatic,450.0,2020
+44080,44080,44389,Mercedes-Benz,S 560,Gasoline,Automatic,469.0,2020
+44081,44081,44391,Audi,RS5,Gasoline,Automatic,450.0,2020
+44082,44082,44393,Bentley,Bentayga,Gasoline,Automatic,635.0,2020
+44107,44107,44418,Honda,e,Electric,Automatic,154.0,2020
+44120,44120,44431,Volvo,S90,Diesel,Automatic,190.0,2020
+44121,44121,44432,Jaguar,XE,Gasoline,Automatic,250.0,2020
+44122,44122,44433,Volvo,V60 Cross Country,Gasoline,Automatic,250.0,2020
+44124,44124,44435,Jaguar,F-Pace,Diesel,Automatic,300.0,2020
+44168,44168,44479,Land,Rover Range Rover Sport,Gasoline,Automatic,575.0,2020
+44176,44176,44491,Skoda,Citigo,Electric,Automatic,83.0,2020
+44193,44193,44508,MINI,Cooper S,Gasoline,Automatic,192.0,2020
+44241,44241,44558,Mercedes-Benz,GLA 250,Gasoline,Automatic,211.0,2020
+44242,44242,44559,Mercedes-Benz,CLA 200,Gasoline,Automatic,163.0,2020
+44244,44244,44561,BMW,220,Diesel,Automatic,190.0,2020
+44246,44246,44563,Chevrolet,Camaro,Gasoline,Manual,461.0,2020
+44247,44247,44564,BMW,135,Gasoline,Automatic,306.0,2020
+44249,44249,44566,Mercedes-Benz,CLA 220,Diesel,Automatic,190.0,2020
+44253,44253,44570,BMW,330,Diesel,Automatic,265.0,2020
+44255,44255,44572,BMW,X2 M,Gasoline,Automatic,306.0,2020
+44256,44256,44573,Land,Rover Range Rover Evoque,Diesel,Automatic,179.0,2020
+44259,44259,44576,BMW,240,Gasoline,Automatic,340.0,2020
+44262,44262,44579,Mercedes-Benz,A 180,Gasoline,Manual,136.0,2020
+44263,44263,44580,Volkswagen,Passat,Gasoline,Automatic,150.0,2020
+44269,44269,44586,Mercedes-Benz,GLA 200,Gasoline,Automatic,156.0,2020
+44272,44272,44589,SEAT,Alhambra,Diesel,Automatic,150.0,2020
+44273,44273,44590,BMW,120,Diesel,Automatic,190.0,2020
+44275,44275,44592,Volkswagen,Golf GTI,Gasoline,Automatic,245.0,2020
+44278,44278,44595,Mercedes-Benz,B 220,Gasoline,Automatic,190.0,2020
+44300,44300,44617,BMW,235,Gasoline,Automatic,306.0,2020
+44304,44304,44621,BMW,Z4,Gasoline,Automatic,258.0,2020
+44305,44305,44622,BMW,X3,Diesel,Automatic,190.0,2020
+44306,44306,44623,Mercedes-Benz,C 300,Electric/Diesel,Automatic,194.0,2020
+44310,44310,44627,Mercedes-Benz,V 220,Diesel,Automatic,163.0,2020
+44314,44314,44631,Mercedes-Benz,C 400,Gasoline,Automatic,333.0,2020
+44316,44316,44633,BMW,M2,Gasoline,Automatic,411.0,2020
+44334,44334,44651,Mercedes-Benz,CLA 180,Gasoline,Automatic,136.0,2020
+44419,44419,44736,BMW,530,Diesel,Automatic,286.0,2020
+44421,44421,44738,Mercedes-Benz,V 250,Diesel,Automatic,190.0,2020
+44422,44422,44739,Mercedes-Benz,E 400,Diesel,Automatic,330.0,2020
+44427,44427,44744,BMW,730,Diesel,Automatic,265.0,2020
+44430,44430,44747,Volvo,V90 Cross Country,Diesel,Automatic,235.0,2020
+44431,44431,44748,BMW,X5,Diesel,Automatic,286.0,2020
+44434,44434,44751,BMW,X4 M,Gasoline,Automatic,510.0,2020
+44482,44482,44800,Citroen,C4 Cactus,Gasoline,Automatic,131.0,2020
+44560,44560,44878,Dacia,Lodgy,Gasoline,Manual,131.0,2020
+44565,44565,44883,Peugeot,308,Gasoline,Manual,110.0,2020
+44567,44567,44885,Ford,Tourneo Courier,Diesel,Manual,101.0,2020
+44600,44600,44919,MINI,Cooper Cabrio,Gasoline,Manual,136.0,2020
+44607,44607,44926,BMW,X2,Gasoline,Manual,140.0,2020
+44674,44674,44994,Mercedes-Benz,Citan,Diesel,Manual,116.0,2020
+44701,44701,45021,Honda,Civic,Gasoline,Manual,182.0,2020
+44730,44730,45050,Honda,Jazz,Electric/Gasoline,Automatic,98.0,2020
+44761,44761,45081,BMW,218,Diesel,Automatic,150.0,2020
+44767,44767,45087,Opel,Crossland,Gasoline,Manual,110.0,2020
+44773,44773,45093,smart,forFour,Electric,Automatic,82.0,2020
+44775,44775,45095,Opel,Astra,Diesel,Manual,122.0,2020
+44786,44786,45106,Alfa,Romeo Giulietta,Diesel,Manual,120.0,2020
+44800,44800,45120,Fiat,Talento,Diesel,Manual,120.0,2020
+44804,44804,45124,BMW,118,Gasoline,Automatic,140.0,2020
+44809,44809,45129,Volkswagen,Golf Sportsvan,Diesel,Automatic,150.0,2020
+44811,44811,45131,BMW,318,Diesel,Automatic,150.0,2020
+44830,44830,45150,Citroen,Grand C4 Picasso,Gasoline,Manual,131.0,2020
+44832,44832,45152,smart,forTwo,Electric,Automatic,82.0,2020
+44842,44842,45162,SEAT,Leon,Gasoline,Manual,150.0,2020
+44851,44851,45171,Kia,ProCeed / pro_cee'd,Diesel,Automatic,136.0,2020
+44861,44861,45181,Ford,Galaxy,Gasoline,Manual,165.0,2020
+44869,44869,45189,BMW,320,Gasoline,Automatic,184.0,2020
+44870,44870,45190,Volkswagen,Crafter,Diesel,Manual,177.0,2020
+44874,44874,45194,Volvo,V60,Gasoline,Automatic,250.0,2020
+44875,44875,45195,Volkswagen,Touran,Diesel,Automatic,150.0,2020
+44882,44882,45202,BMW,520,Diesel,Automatic,190.0,2020
+44883,44883,45203,BMW,420,Diesel,Automatic,190.0,2020
+44910,44910,45230,Honda,CR-V,Gasoline,Automatic,193.0,2020
+44931,44931,45251,Mazda,MX-30,Electric,Automatic,145.0,2021
+44940,44940,45260,Nissan,Leaf,Electric,Automatic,218.0,2021
+44983,44983,45303,Opel,Mokka-E,Electric,Automatic,77.0,2021
+44984,44984,45304,Toyota,C-HR,Electric/Gasoline,Automatic,152.0,2021
+44985,44985,45305,Opel,Vivaro,Diesel,Automatic,144.0,2021
+44987,44987,45307,Toyota,Corolla,Electric/Gasoline,Automatic,152.0,2021
+44989,44989,45309,Nissan,Navara,Diesel,Automatic,190.0,2021
+44990,44990,45310,Toyota,Supra,Gasoline,Automatic,258.0,2021
+44992,44992,45312,Volkswagen,T6 California,Diesel,Automatic,150.0,2021
+44998,44998,45318,Mercedes-Benz,GLE 63 AMG,Gasoline,Automatic,612.0,2021
+44999,44999,45319,Mercedes-Benz,GLS 600,Gasoline,Automatic,557.0,2021
+45004,45004,45324,Peugeot,Rifter,Diesel,Automatic,131.0,2021
+45005,45005,45325,Peugeot,2008,Diesel,Automatic,131.0,2021
+45010,45010,45330,Skoda,Enyaq,Electric,Automatic,179.0,2021
+45014,45014,45334,Mitsubishi,Eclipse Cross,Electric/Gasoline,Automatic,188.0,2021
+45065,45065,45385,Mercedes-Benz,C 200,Gasoline,Automatic,184.0,2021
+45072,45072,45392,Mercedes-Benz,B 200,Gasoline,Automatic,163.0,2021
+45074,45074,45394,Ford,Transit,Diesel,Automatic,185.0,2021
+45080,45080,45400,Ford,Tourneo Custom,Diesel,Automatic,185.0,2021
+45081,45081,45401,Mercedes-Benz,A 200,Diesel,Automatic,150.0,2021
+45127,45127,45448,Mercedes-Benz,GLB 200,Diesel,Automatic,150.0,2021
+45128,45128,45449,Mercedes-Benz,A 220,Diesel,Automatic,190.0,2021
+45133,45133,45454,Volkswagen,Golf Variant,Diesel,Automatic,150.0,2021
+45134,45134,45455,Peugeot,Traveller,Electric,Automatic,136.0,2021
+45181,45181,45502,Volkswagen,Sharan,Gasoline,Automatic,150.0,2021
+45182,45182,45503,Peugeot,508,Diesel,Automatic,131.0,2021
+45188,45188,45509,Cadillac,XT4,Gasoline,Automatic,230.0,2021
+45190,45190,45511,Peugeot,5008,Gasoline,Automatic,181.0,2021
+45191,45191,45512,Mercedes-Benz,C 220,Diesel,Automatic,194.0,2021
+45214,45214,45535,Toyota,Yaris,Gasoline,Manual,125.0,2021
+45219,45219,45540,Opel,Karl,Gasoline,Manual,73.0,2021
+45225,45225,45546,Volkswagen,up!,Gasoline,Manual,65.0,2021
+45241,45241,45562,Citroen,Spacetourer,Electric,Automatic,136.0,2021
+45242,45242,45563,Mercedes-Benz,E 200,Gasoline,Automatic,197.0,2021
+45243,45243,45564,Mercedes-Benz,GLB 220,Diesel,Automatic,190.0,2021
+45249,45249,45570,Mercedes-Benz,Vito,Diesel,Automatic,237.0,2021
+45253,45253,45574,Ford,Transit Custom,Diesel,Automatic,185.0,2021
+45256,45256,45577,Ford,Explorer,Gasoline,Automatic,400.0,2021
+45295,45295,45617,Audi,RS,Gasoline,Automatic,400.0,2021
+45298,45298,45620,Mercedes-Benz,E 450,Gasoline,Automatic,367.0,2021
+45306,45306,45628,Renault,Alpine A110,Gasoline,Automatic,292.0,2021
+45308,45308,45631,Ford,F 150,Gasoline,Automatic,405.0,2021
+45309,45309,45632,BMW,540,Gasoline,Automatic,340.0,2021
+45310,45310,45633,Porsche,Boxster,Gasoline,Automatic,299.0,2021
+45312,45312,45635,Audi,A6 allroad,Diesel,Automatic,344.0,2021
+45353,45353,45676,Mercedes-Benz,EQV 300,Electric,Automatic,204.0,2021
+45354,45354,45677,Mercedes-Benz,S 450,Gasoline,Automatic,367.0,2021
+45356,45356,45679,Porsche,Cayman,Gasoline,Manual,400.0,2021
+45357,45357,45680,Dodge,RAM,Electric/Gasoline,Automatic,401.0,2021
+45358,45358,45681,Mercedes-Benz,C 63 AMG,Gasoline,Automatic,510.0,2021
+45359,45359,45682,Mercedes-Benz,AMG GT,Gasoline,Automatic,367.0,2021
+45363,45363,45686,Mercedes-Benz,GLS 400,Diesel,Automatic,330.0,2021
+45370,45370,45693,Mercedes-Benz,S 400,Diesel,Automatic,330.0,2021
+45409,45409,45732,Fiat,New Panda,Gasoline,Manual,69.0,2021
+45413,45413,45736,Porsche,Cayenne,Gasoline,Automatic,460.0,2021
+45417,45417,45740,Mercedes-Benz,S 260,Diesel,Automatic,330.0,2021
+45424,45424,45747,Porsche,992,Gasoline,Automatic,581.0,2021
+45477,45477,45800,Fiat,Tipo,Gasoline,Manual,101.0,2021
+45479,45479,45802,MINI,One,Gasoline,Automatic,102.0,2021
+45482,45482,45805,Suzuki,SX4 S-Cross,Electric/Gasoline,Automatic,129.0,2021
+45484,45484,45807,Audi,A1,Gasoline,Automatic,110.0,2021
+45489,45489,45812,Suzuki,Vitara,Electric/Gasoline,Automatic,129.0,2021
+45548,45548,45871,Ford,Transit Courier,Gasoline,Manual,101.0,2021
+45560,45560,45883,Renault,Twingo,Gasoline,Manual,65.0,2021
+45569,45569,45892,Fiat,500C,Gasoline,Manual,71.0,2021
+45573,45573,45896,Kia,Rio,Gasoline,Manual,84.0,2021
+45576,45576,45899,Suzuki,Swift,Electric/Gasoline,Manual,83.0,2021
+45587,45587,45910,Dacia,Sandero,Gasoline,Manual,91.0,2021
+45588,45588,45911,Hyundai,i10,Gasoline,Manual,67.0,2021
+45594,45594,45917,Fiat,500X,Gasoline,Automatic,150.0,2021
+45597,45597,45920,BMW,116,Gasoline,Automatic,109.0,2021
+45600,45600,45926,MINI,Cooper SE,Electric/Gasoline,Automatic,220.0,2021
+45603,45603,45929,BMW,i3,Electric,Automatic,102.0,2021
+45611,45611,45937,Kia,Picanto,Gasoline,Manual,101.0,2021
+45629,45629,45955,Opel,Crossland X,Gasoline,Manual,83.0,2021
+45649,45649,45975,Citroen,C3,Gasoline,Automatic,110.0,2021
+45663,45663,45989,Ford,Transit Connect,Gasoline,Manual,101.0,2021
+45670,45670,45996,Dacia,Duster,Gasoline,Manual,131.0,2021
+45672,45672,45998,Renault,Kangoo,Diesel,Manual,116.0,2021
+45678,45678,46004,Fiat,Doblo,Diesel,Manual,105.0,2021
+45681,45681,46007,Abarth,595 Turismo,Gasoline,Manual,165.0,2021
+45685,45685,46011,SEAT,Arona,Gasoline,Automatic,150.0,2021
+45691,45691,46017,Nissan,Juke,Gasoline,Manual,114.0,2021
+45692,45692,46018,Mazda,CX-3,Gasoline,Automatic,121.0,2021
+45698,45698,46024,Mazda,3,Gasoline,Automatic,122.0,2021
+45700,45700,46026,Ford,EcoSport,Gasoline,Manual,125.0,2021
+45716,45716,46042,Opel,Insignia,Diesel,Automatic,122.0,2021
+45719,45719,46045,Kia,Ceed SW / cee'd SW,Gasoline,Automatic,160.0,2021
+45721,45721,46047,Hyundai,i30,Gasoline,Manual,120.0,2021
+45731,45731,46057,Abarth,595,Gasoline,Manual,179.0,2021
+45749,45749,46077,Jeep,Renegade,Gasoline,Manual,120.0,2021
+45750,45750,46078,Kia,XCeed,Electric/Diesel,Manual,136.0,2021
+45751,45751,46079,Renault,Clio,Electric/Gasoline,Automatic,140.0,2021
+45759,45759,46087,Suzuki,Swace,Electric/Gasoline,Automatic,98.0,2021
+45762,45762,46090,Hyundai,i20,Gasoline,Automatic,120.0,2021
+45766,45766,46094,SEAT,Ibiza,Gasoline,Automatic,110.0,2021
+45772,45772,46100,Skoda,Kamiq,CNG,Manual,90.0,2021
+45774,45774,46103,Hyundai,Kona Elektro,Electric,Automatic,136.0,2021
+45786,45786,46116,Abarth,695,Gasoline,Manual,179.0,2021
+45793,45793,46124,Kia,Niro,Electric/Gasoline,Automatic,141.0,2021
+45796,45796,46127,Kia,e-Niro,Electric,Automatic,204.0,2021
+45797,45797,46128,Ford,Mondeo,Diesel,Automatic,190.0,2021
+45806,45806,46137,Opel,Grandland X,Diesel,Automatic,131.0,2021
+45808,45808,46139,Renault,ZOE,Electric,Automatic,69.0,2021
+45812,45812,46143,Renault,Scenic,Gasoline,Automatic,140.0,2021
+45825,45825,46156,Citroen,Berlingo,Gasoline,Automatic,131.0,2021
+45829,45829,46160,Nissan,Qashqai,Gasoline,Automatic,159.0,2021
+45834,45834,46165,Mitsubishi,ASX,Gasoline,Automatic,150.0,2021
+45836,45836,46167,Renault,Captur,Gasoline,Automatic,154.0,2021
+45837,45837,46168,Volkswagen,Polo,Gasoline,Automatic,150.0,2021
+45838,45838,46169,Volkswagen,T6 Kombi,Diesel,Manual,110.0,2021
+45841,45841,46172,Volvo,XC40,Gasoline,Automatic,163.0,2021
+45844,45844,46175,Kia,Sportage,Diesel,Automatic,185.0,2021
+45847,45847,46178,Jeep,Compass,Electric/Gasoline,Automatic,189.0,2021
+45852,45852,46183,SEAT,Tarraco,Electric/Gasoline,Automatic,150.0,2021
+45861,45861,46192,Skoda,Kodiaq,Diesel,Automatic,150.0,2021
+45863,45863,46194,Ford,Puma,Gasoline,Manual,200.0,2021
+45864,45864,46195,Renault,Megane,Electric/Gasoline,Automatic,158.0,2021
+45869,45869,46200,Opel,Zafira Life,Diesel,Automatic,177.0,2021
+45871,45871,46202,Renault,Talisman,Gasoline,Automatic,224.0,2021
+45874,45874,46205,Renault,Koleos,Gasoline,Automatic,158.0,2021
+45875,45875,46206,Ford,S-Max,Electric/Gasoline,Automatic,190.0,2021
+45876,45876,46207,Ford,Kuga,Electric/Gasoline,Automatic,152.0,2021
+45880,45880,46211,Ford,Ranger,Diesel,Automatic,212.0,2021
+45881,45881,46212,Alfa,Romeo Stelvio,Gasoline,Automatic,280.0,2021
+45882,45882,46213,Ford,Mustang,Gasoline,Automatic,450.0,2021
+45884,45884,46215,Volvo,V90,Diesel,Automatic,190.0,2021
+45885,45885,46216,Jeep,Gladiator,Diesel,Automatic,264.0,2021
+45887,45887,46218,Jeep,Wrangler,Electric/Gasoline,Automatic,381.0,2021
+45893,45893,46224,Audi,S5,Diesel,Automatic,347.0,2021
+45894,45894,46225,Audi,A6,Diesel,Automatic,286.0,2021
+45895,45895,46226,Audi,A5,Diesel,Automatic,286.0,2021
+45898,45898,46229,Renault,Espace,Gasoline,Automatic,224.0,2021
+45899,45899,46230,Volkswagen,Tiguan,Electric/Gasoline,Automatic,150.0,2021
+45901,45901,46232,Audi,Q5,Diesel,Automatic,204.0,2021
+45902,45902,46233,Mercedes-Benz,E 300,Gasoline,Automatic,258.0,2021
+45903,45903,46234,DS,Automobiles DS 7 Crossback,Electric/Gasoline,Automatic,299.0,2021
+45904,45904,46235,Audi,S3,Gasoline,Automatic,310.0,2021
+45905,45905,46236,Audi,TT,Gasoline,Automatic,245.0,2021
+45906,45906,46238,Volvo,XC90,Diesel,Automatic,235.0,2021
+45908,45908,46240,Audi,Q3,Diesel,Automatic,200.0,2021
+45909,45909,46241,Audi,A4,Diesel,Automatic,204.0,2021
+45913,45913,46245,Alpine,A110,Gasoline,Manual,292.0,2021
+45917,45917,46249,Peugeot,208,Gasoline,Automatic,131.0,2021
+45921,45921,46253,Opel,Mokka,Gasoline,Automatic,131.0,2021
+45923,45923,46255,Peugeot,Expert,Diesel,Automatic,122.0,2021
+45924,45924,46256,Volkswagen,T-Roc,Gasoline,Automatic,150.0,2021
+45929,45929,46261,Mazda,CX-30,Gasoline,Automatic,186.0,2021
+45932,45932,46264,Cupra,Formentor,Gasoline,Manual,150.0,2021
+45936,45936,46268,Porsche,Macan,Gasoline,Automatic,441.0,2021
+45940,45940,46272,Audi,e-tron,Electric,Automatic,476.0,2021
+45942,45942,46274,Porsche,Taycan,Electric,Automatic,571.0,2021
+45945,45945,46277,Audi,S8,Gasoline,Automatic,700.0,2021
+45946,45946,46278,Porsche,Panamera,Electric/Gasoline,Automatic,560.0,2021
+45948,45948,46280,Aston,Martin DBX,Gasoline,Automatic,551.0,2021
+45949,45949,46281,Ford,Fiesta,Gasoline,Manual,95.0,2021
+45950,45950,46282,Ford,Focus,Gasoline,Automatic,150.0,2021
+45951,45951,46283,Ford,Grand Tourneo,Diesel,Automatic,120.0,2021
+45952,45952,46284,Volkswagen,Caddy,Diesel,Automatic,122.0,2021
+45953,45953,46285,Volkswagen,Touareg,Electric/Gasoline,Automatic,340.0,2021
+45954,45954,46286,Alfa,Romeo Giulia,Gasoline,Automatic,510.0,2021
+45955,45955,46287,Audi,S6,Diesel,Automatic,349.0,2021
+45956,45956,46288,BMW,M4,Gasoline,Automatic,510.0,2021
+45957,45957,46289,Bentley,Flying Spur,Gasoline,Automatic,549.0,2021
+45958,45958,46290,Fiat,500L,Gasoline,Manual,95.0,2021
+45959,45959,46291,Abarth,595C,Gasoline,Automatic,165.0,2021
+45960,45960,46292,Mercedes-Benz,C 180,Diesel,Automatic,156.0,2021
+45963,45963,46295,BMW,X1,Gasoline,Automatic,192.0,2021
+45964,45964,46296,Mercedes-Benz,GLA 180,Diesel,Automatic,116.0,2021
+45966,45966,46298,Mercedes-Benz,CLA 250,Gasoline,Automatic,224.0,2021
+45967,45967,46299,Mercedes-Benz,E 220,Diesel,Automatic,194.0,2021
+45968,45968,46300,Mercedes-Benz,A 250,Gasoline,Automatic,224.0,2021
+45969,45969,46301,Hyundai,Santa Fe,Electric/Gasoline,Automatic,265.0,2021
+45970,45970,46302,Mercedes-Benz,SLC 300,Gasoline,Automatic,245.0,2021
+45971,45971,46303,Mercedes-Benz,Sprinter,Diesel,Automatic,190.0,2021
+45972,45972,46304,Volkswagen,Arteon,Diesel,Automatic,200.0,2021
+45974,45974,46306,SEAT,Ateca,Gasoline,Manual,150.0,2021
+45977,45977,46309,Renault,Trafic,Diesel,Manual,145.0,2021
+45980,45980,46312,Opel,Corsa,Electric,Automatic,136.0,2021
+45981,45981,46313,Hyundai,Ioniq,Electric,Manual,136.0,2021
+45982,45982,46314,Hyundai,Tucson,Gasoline,Manual,179.0,2021
+45984,45984,46316,Skoda,Karoq,Gasoline,Automatic,150.0,2021
+45985,45985,46317,Ford,Tourneo Connect,Diesel,Automatic,120.0,2021
+45986,45986,46318,Renault,Arkana,Gasoline,Manual,140.0,2021
+45988,45988,46320,Skoda,Superb,Gasoline,Automatic,150.0,2021
+45989,45989,46321,Mazda,MX-5,Gasoline,Manual,184.0,2021
+45990,45990,46322,Citroen,C4,Gasoline,Automatic,155.0,2021
+45991,45991,46323,Opel,Combo,Gasoline,Automatic,131.0,2021
+45992,45992,46324,Hyundai,Kona,Electric/Gasoline,Automatic,141.0,2021
+45993,45993,46325,Jaguar,E-Pace,Diesel,Automatic,204.0,2021
+45994,45994,46327,Land,Rover Defender,Diesel,Automatic,200.0,2021
+45995,45995,46328,Volkswagen,T6 Multivan,Diesel,Automatic,204.0,2021
+45998,45998,46331,Aston,Martin V8,Gasoline,Automatic,510.0,2021
+45999,45999,46332,Land,Rover Range Rover,Gasoline,Automatic,566.0,2021
+46000,46000,46333,Aston,Martin DB11,Gasoline,Automatic,639.0,2021
+46001,46001,46334,DFSK,Glory 580,Gasoline,Automatic,145.0,2021
+46011,46011,46345,Mercedes-Benz,GLC 300,Gasoline,Automatic,258.0,2021
+46012,46012,46346,Volvo,XC60,Electric/Gasoline,Automatic,341.0,2021
+46013,46013,46347,BMW,X3 M,Diesel,Automatic,340.0,2021
+46014,46014,46348,BMW,340,Gasoline,Automatic,374.0,2021
+46015,46015,46349,Mercedes-Benz,GLE 350,Diesel,Automatic,272.0,2021
+46016,46016,46350,Mercedes-Benz,V 300,Diesel,Automatic,237.0,2021
+46017,46017,46351,Mercedes-Benz,GLE 400,Diesel,Automatic,330.0,2021
+46018,46018,46352,Alpina,B3,Gasoline,Automatic,462.0,2021
+46019,46019,46353,Jaguar,F-Type,Gasoline,Automatic,575.0,2021
+46022,46022,46356,Toyota,Aygo,Gasoline,Manual,72.0,2021
+46023,46023,46357,Suzuki,Ignis,Gasoline,Manual,83.0,2021
+46027,46027,46361,Mazda,2,Gasoline,Manual,90.0,2021
+46028,46028,46362,Nissan,NV250,Diesel,Manual,116.0,2021
+46029,46029,46363,Nissan,Micra,Gasoline,Automatic,92.0,2021
+46030,46030,46364,Kia,Ceed / cee'd,Gasoline,Manual,120.0,2021
+46032,46032,46366,Volkswagen,Passat Variant,Gasoline,Automatic,150.0,2021
+46034,46034,46368,Mazda,6,Gasoline,Manual,165.0,2021
+46035,46035,46369,Mazda,CX-5,Gasoline,Automatic,194.0,2021
+46036,46036,46370,Skoda,Octavia,Gasoline,Automatic,110.0,2021
+46038,46038,46372,Peugeot,3008,Gasoline,Automatic,181.0,2021
+46039,46039,46373,Skoda,Scala,Gasoline,Automatic,150.0,2021
+46040,46040,46374,Nissan,X-Trail,Gasoline,Automatic,159.0,2021
+46042,46042,46376,Renault,Grand Scenic,Gasoline,Manual,158.0,2021
+46043,46043,46377,Volkswagen,Golf,Diesel,Automatic,150.0,2021
+46044,46044,46378,Audi,A3,Gasoline,Automatic,150.0,2021
+46045,46045,46379,Renault,Kadjar,Gasoline,Manual,158.0,2021
+46046,46046,46380,Citroen,C5 Aircross,Electric/Gasoline,Automatic,224.0,2021
+46047,46047,46381,Volkswagen,T-Cross,Gasoline,Automatic,150.0,2021
+46048,46048,46382,Audi,Q2,Gasoline,Automatic,150.0,2021
+46049,46049,46383,Mitsubishi,Outlander,Electric/Gasoline,Automatic,224.0,2021
+46050,46050,46384,Nissan,NV300,Diesel,Automatic,170.0,2021
+46056,46056,46390,Peugeot,108,Gasoline,Manual,72.0,2021
+46057,46057,46391,Mitsubishi,Space Star,Gasoline,Manual,71.0,2021
+46061,46061,46395,Citroen,C1,Gasoline,Manual,72.0,2021
+46064,46064,46398,Fiat,Panda,Electric/Gasoline,Manual,69.0,2021
+46065,46065,46399,Skoda,Fabia,Gasoline,Manual,60.0,2021
+46070,46070,46404,Fiat,500,Electric/Gasoline,Manual,71.0,2021

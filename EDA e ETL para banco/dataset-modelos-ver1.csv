@@ -1,0 +1,836 @@
+make_numerico,model,fuel,gear,hp,year
+10,GLS 500,Gasoline,Automatic,455.0,2019
+35,GranTurismo,Gasoline,Automatic,460.0,2016
+4,Express,Gasoline,Manual,101.0,2021
+45,Grand Voyager,Gasoline,Automatic,287.0,2013
+2,Cross Golf,Gasoline,Manual,160.0,2014
+10,SLC 200,Gasoline,Automatic,184.0,2017
+51,Voyager,Diesel,Automatic,178.0,2013
+53,Automobiles DS 4,Gasoline,Manual,120.0,2012
+51,Thema,Gasoline,Automatic,286.0,2012
+6,Urban Cruiser,Diesel,Manual,90.0,2011
+35,Quattroporte,Gasoline,Automatic,581.0,2021
+38,Romeo 4C,Gasoline,Automatic,241.0,2018
+13,500e,Electric,Automatic,117.0,2021
+19,C15,Gasoline,Manual,69.0,2018
+28,Evalia,Diesel,Manual,90.0,2015
+17,Bayon,Gasoline,Manual,101.0,2021
+2,Golf GTE,Gasoline,Automatic,204.0,2017
+16,John Cooper Works Coupe,Gasoline,Manual,211.0,2012
+47,GT,Gasoline,Automatic,620.0,2019
+60,D2S,Electric,Automatic,24.0,2019
+10,Marco Polo,Diesel,Automatic,163.0,2018
+10,A 35 AMG,Gasoline,Automatic,306.0,2019
+61,3-Wheeler,Gasoline,Manual,68.0,2019
+16,Cooper Paceman,Gasoline,Manual,122.0,2014
+10,S 650,Gasoline,Automatic,630.0,2019
+5,301,Gasoline,Manual,82.0,2018
+28,370Z,Gasoline,Automatic,328.0,2018
+2,T6.1 Multivan,Diesel,Automatic,150.0,2020
+25,C70,Diesel,Manual,177.0,2011
+10,GLE 43 AMG,Gasoline,Automatic,390.0,2017
+16,Cooper D Paceman,Diesel,Automatic,111.0,2013
+2,T4 Allstar,Gasoline,Manual,75.0,2017
+22,MUSSO,Diesel,Manual,181.0,2020
+16,Cooper SD Paceman,Diesel,Automatic,143.0,2014
+52,Punto EVO,Gasoline,Manual,163.0,2012
+30,Vesta,Gasoline,Manual,102.0,2019
+16,Cooper S Roadster,Gasoline,Manual,184.0,2012
+2,T5 Shuttle,Diesel,Manual,140.0,2013
+10,GLB 250,Gasoline,Automatic,224.0,2020
+33,GS 250,Gasoline,Automatic,209.0,2012
+62,Pullman,Gasoline,Automatic,530.0,2018
+1,Z4 M,Gasoline,Manual,197.0,2020
+30,Priora,Gasoline,Manual,98.0,2011
+10,GLK 200,Diesel,Manual,143.0,2013
+33,IS 300,Electric/Gasoline,Automatic,181.0,2013
+19,C6,Diesel,Automatic,241.0,2012
+10,CLS 500,Gasoline,Automatic,408.0,2012
+56,812,Gasoline,Automatic,799.0,2021
+56,FF,Gasoline,Automatic,659.0,2013
+45,300C,Diesel,Automatic,218.0,2011
+45,Aspen,Gasoline,Automatic,340.0,2012
+21,Jimny,Gasoline,Manual,86.0,2014
+1,214,Diesel,Manual,95.0,2015
+10,G,Diesel,Automatic,204.0,2013
+56,F8 Tributo,Gasoline,Automatic,721.0,2021
+1,X7 M,Diesel,Automatic,400.0,2020
+1,M5,Gasoline,Automatic,560.0,2012
+10,CL 500,Gasoline,Automatic,435.0,2012
+5,407,Diesel,Manual,109.0,2011
+38,Romeo Sportwagon,Diesel,Manual,170.0,2011
+53,Automobiles DS 3,Gasoline,Manual,82.0,2016
+70,BS4,LPG,Manual,101.0,2011
+6,GT86,Gasoline,Manual,280.0,2015
+40,Grand Caravan,Gasoline,Automatic,287.0,2015
+10,CLS 63 AMG,Gasoline,Automatic,557.0,2011
+33,LS 600,Electric/Gasoline,Automatic,445.0,2013
+16,Cooper SD Coupe,Diesel,Manual,143.0,2014
+25,S80,Diesel,Automatic,181.0,2015
+10,300,Electric/Diesel,Automatic,204.0,2012
+26,XKR,Gasoline,Automatic,551.0,2012
+1,518,Diesel,Automatic,143.0,2014
+56,F12,Gasoline,Automatic,775.0,2017
+29,Accord,Gasoline,Automatic,156.0,2011
+59,Porter,Gasoline,Manual,71.0,2012
+41,Due,Diesel,Automatic,10.0,2014
+40,Caliber,Gasoline,Manual,156.0,2011
+71,Karma,Electric/Gasoline,Automatic,408.0,2012
+42,Gallardo,Gasoline,Automatic,560.0,2013
+26,XK,Gasoline,Automatic,385.0,2014
+25,S60 Cross Country,Diesel,Automatic,190.0,2016
+10,GLA 45 AMG,Gasoline,Automatic,381.0,2016
+16,John Cooper Works Clubman,Gasoline,Automatic,231.0,2018
+1,323,Gasoline,Automatic,190.0,2011
+22,Rodius,Diesel,Automatic,155.0,2014
+40,Journey,Diesel,Manual,140.0,2011
+13,Linea,Gasoline,Manual,77.0,2012
+68,D3,Diesel,Automatic,349.0,2015
+42,Aventador,Gasoline,Automatic,700.0,2015
+32,Landwind,Gasoline,Manual,97.0,2012
+10,ML 250,Diesel,Automatic,204.0,2013
+10,SLK 250,Gasoline,Automatic,204.0,2011
+27,997,Gasoline,Automatic,345.0,2011
+10,GLK 220,Diesel,Automatic,170.0,2012
+10,CLS,Diesel,Automatic,265.0,2013
+61,Roadster,Gasoline,Manual,286.0,2014
+1,528,Gasoline,Automatic,245.0,2017
+33,UX 200,Gasoline,Automatic,171.0,2019
+49,Wraith,Gasoline,Automatic,632.0,2014
+31,Pajero,Diesel,Automatic,190.0,2015
+1,760,Gasoline,Automatic,544.0,2016
+10,SL 500,Gasoline,Automatic,435.0,2014
+10,CLC,Gasoline,Manual,184.0,2011
+10,SL 350,Gasoline,Automatic,306.0,2014
+16,Clubvan,Diesel,Manual,111.0,2013
+1,M850,Gasoline,Automatic,530.0,2018
+54,Cuore,Gasoline,Manual,69.0,2011
+10,ML 350,Diesel,Automatic,258.0,2015
+42,Huracan,Gasoline,Automatic,610.0,2015
+6,Mirai,Hydrogen,Automatic,154.0,2017
+33,ES 300,Electric/Gasoline,Automatic,218.0,2021
+4,Alaskan,Diesel,Automatic,190.0,2021
+2,T5 California,Diesel,Manual,140.0,2015
+28,NP300,Diesel,Automatic,190.0,2021
+54,Charade,Gasoline,Manual,99.0,2012
+23,city-coupé/city-cabrio,Gasoline,Automatic,71.0,2014
+12,SQ8,Diesel,Automatic,435.0,2019
+28,Primastar,Diesel,Manual,90.0,2012
+13,Fullback,Diesel,Automatic,181.0,2018
+16,Cooper SD Cabrio,Diesel,Automatic,143.0,2015
+40,Viper,Gasoline,Manual,649.0,2016
+47,675LT,Gasoline,Automatic,674.0,2016
+12,S1,Gasoline,Manual,231.0,2018
+54,Terios,Gasoline,Manual,105.0,2011
+5,RCZ,Gasoline,Manual,156.0,2011
+2,T6.1 Transporter,Diesel,Manual,90.0,2021
+2,New Beetle,Gasoline,Manual,105.0,2018
+31,Eclipse,Gasoline,Automatic,163.0,2019
+10,EQC 400,Electric,Automatic,408.0,2021
+10,S 600,Gasoline,Automatic,530.0,2015
+52,595 Competizione,Gasoline,Manual,179.0,2019
+10,E 43 AMG,Gasoline,Automatic,401.0,2017
+19,C4 SpaceTourer,Diesel,Manual,131.0,2018
+51,MUSA,Gasoline,Manual,95.0,2012
+1,840,Diesel,Automatic,320.0,2019
+1,X7,Gasoline,Automatic,530.0,2019
+33,LC 500,Gasoline,Automatic,464.0,2021
+33,LS 500,Electric/Gasoline,Automatic,359.0,2021
+10,SLC 250,Diesel,Automatic,204.0,2016
+19,C8,Diesel,Manual,136.0,2011
+12,RS Q8,Gasoline,Automatic,740.0,2021
+30,Taiga,Gasoline,Manual,83.0,2014
+6,Proace,Diesel,Automatic,177.0,2019
+10,GLC 200,Diesel,Automatic,163.0,2020
+33,NX 300,Electric/Gasoline,Automatic,197.0,2017
+2,Transporter,Diesel,Manual,84.0,2016
+22,XLV,Diesel,Manual,116.0,2017
+6,Camry,Electric/Gasoline,Automatic,218.0,2020
+33,UX 250h,Electric/Gasoline,Automatic,184.0,2020
+33,LX 570,Gasoline,Automatic,367.0,2021
+12,R8,Gasoline,Automatic,610.0,2018
+12,Q8,Diesel,Automatic,286.0,2019
+42,Urus,Gasoline,Automatic,650.0,2019
+6,Highlander,Others,Automatic,247.0,2021
+9,Transit Bus,Diesel,Manual,101.0,2011
+20,Q60,Gasoline,Automatic,405.0,2017
+22,REXTON,Diesel,Automatic,201.0,2021
+16,Cooper D Clubman,Diesel,Manual,111.0,2014
+33,RX 450h,Electric/Gasoline,Automatic,313.0,2019
+10,GLB 180,Gasoline,Automatic,136.0,2021
+17,Grand Santa Fe,Diesel,Automatic,200.0,2017
+1,140,Gasoline,Automatic,340.0,2018
+10,CLS 250,Diesel,Automatic,204.0,2016
+53,Automobiles DS 3 Crossback,Electric,Automatic,136.0,2020
+2,ID.4,Electric,Automatic,204.0,2021
+16,One Countryman,Gasoline,Manual,102.0,2018
+6,Land Cruiser,Gasoline,Automatic,339.0,2017
+2,Polo Cross,Gasoline,Manual,105.0,2011
+29,CR-Z,Electric/Gasoline,Manual,114.0,2011
+4,Latitude,Diesel,Automatic,241.0,2011
+2,Cross Touran,Diesel,Manual,105.0,2011
+9,Fusion,Gasoline,Manual,101.0,2011
+21,Kizashi,Gasoline,Manual,178.0,2011
+1,123,Diesel,Manual,204.0,2011
+21,Grand Vitara,Gasoline,Automatic,169.0,2011
+25,C30,Diesel,Manual,114.0,2011
+25,S40,Diesel,Manual,150.0,2011
+17,Getz,Gasoline,Manual,67.0,2011
+36,Mulsanne,Gasoline,Automatic,513.0,2011
+66,Daily,Diesel,Manual,126.0,2011
+20,EX30,Diesel,Automatic,238.0,2011
+8,CX-7,Diesel,Manual,173.0,2011
+23,brabus,Gasoline,Automatic,102.0,2011
+29,Insight,Electric/Gasoline,Automatic,98.0,2011
+14,Carnival,Diesel,Manual,150.0,2011
+10,ML 300,Diesel,Automatic,204.0,2011
+2,Fox,Gasoline,Manual,60.0,2011
+54,Sirion,Gasoline,Manual,91.0,2011
+31,I-MiEV,Electric,Automatic,48.0,2011
+25,V50,Diesel,Manual,114.0,2011
+39,Trezia,Diesel,Automatic,90.0,2012
+2,Eos,Gasoline,Manual,122.0,2012
+16,Cooper S Coupe,Gasoline,Manual,184.0,2012
+4,Modus,Gasoline,Manual,75.0,2012
+3,Exeo,Diesel,Manual,143.0,2012
+3,Altea XL,Gasoline,Manual,105.0,2012
+16,One Cabrio,Gasoline,Manual,98.0,2012
+10,R 300,Diesel,Automatic,190.0,2012
+16,Cooper SD Clubman,Diesel,Manual,143.0,2012
+2,Jetta,Diesel,Manual,105.0,2012
+11,Malibu,Diesel,Manual,160.0,2012
+19,C-Zero,Electric,Automatic,48.0,2012
+39,Legacy,Diesel,Manual,150.0,2012
+16,Cooper S Paceman,Gasoline,Manual,184.0,2012
+28,Pathfinder,Diesel,Manual,190.0,2012
+1,523,Gasoline,Manual,204.0,2012
+47,MP4-12C,Gasoline,Automatic,625.0,2012
+11,Volt,Electric/Gasoline,Automatic,151.0,2012
+13,Grande Punto,Gasoline,Manual,69.0,2012
+16,One D Countryman,Diesel,Manual,90.0,2012
+16,Cooper SD Countryman,Diesel,Manual,143.0,2012
+17,Veloster,Gasoline,Manual,140.0,2012
+10,GLK 250,Diesel,Automatic,204.0,2012
+10,R 350,Diesel,Automatic,265.0,2012
+4,Grand Espace,Diesel,Automatic,173.0,2012
+12,S4,Gasoline,Automatic,333.0,2012
+21,Alto,Gasoline,Manual,68.0,2012
+4,Wind,Gasoline,Manual,102.0,2012
+1,328,Gasoline,Manual,245.0,2012
+5,206,Gasoline,Manual,60.0,2012
+4,Grand Modus,Diesel,Manual,88.0,2012
+5,807,Diesel,Manual,136.0,2012
+38,Romeo 159,Diesel,Manual,170.0,2012
+13,Sedici,Gasoline,Automatic,120.0,2012
+16,Cooper D Cabrio,Diesel,Manual,111.0,2012
+19,C4 Aircross,Diesel,Manual,114.0,2013
+10,A 160,Gasoline,Automatic,95.0,2013
+10,C 350,Diesel,Automatic,265.0,2013
+16,Cooper Coupe,Gasoline,Manual,122.0,2013
+51,Delta,Gasoline,Manual,140.0,2013
+10,250,Gasoline,Automatic,204.0,2013
+28,Murano,Diesel,Automatic,190.0,2013
+28,Qashqai+2,Diesel,Manual,131.0,2013
+74,D-Max,Diesel,Manual,163.0,2013
+1,428,Gasoline,Manual,245.0,2013
+37,Rover Freelander,Diesel,Manual,150.0,2013
+10,SLS,Gasoline,Automatic,571.0,2013
+16,Cooper Roadster,Gasoline,Manual,122.0,2013
+10,E 500,Gasoline,Automatic,408.0,2013
+11,Spark,Gasoline,Manual,82.0,2013
+28,Pixo,Gasoline,Automatic,68.0,2013
+11,Trax,Gasoline,Manual,116.0,2013
+10,SLK 200,Gasoline,Manual,184.0,2013
+10,Viano,Diesel,Automatic,224.0,2013
+1,535,Diesel,Automatic,313.0,2013
+10,GLK 350,Diesel,Automatic,265.0,2013
+11,Aveo,Diesel,Manual,75.0,2013
+72,ATS,Gasoline,Manual,276.0,2013
+1,650,Gasoline,Automatic,449.0,2013
+5,4008,Diesel,Manual,150.0,2013
+56,458,Gasoline,Automatic,570.0,2013
+30,Niva,Gasoline,Manual,83.0,2013
+18,Praktik,Gasoline,Manual,69.0,2013
+7,Agila,Gasoline,Automatic,94.0,2013
+11,Captiva,Diesel,Manual,184.0,2013
+31,Colt,Gasoline,Manual,75.0,2013
+30,Granta,Gasoline,Manual,87.0,2013
+6,Verso-S,Gasoline,Automatic,99.0,2014
+2,T5 Kombi,Diesel,Manual,102.0,2014
+39,Impreza,Gasoline,Manual,114.0,2014
+11,Orlando,Diesel,Manual,163.0,2014
+8,5,Gasoline,Manual,150.0,2014
+16,Cooper D Countryman,Diesel,Manual,111.0,2014
+11,Cruze,Gasoline,Manual,140.0,2014
+6,Verso,Gasoline,Manual,132.0,2014
+6,Avensis,Gasoline,Manual,147.0,2014
+58,City,Electric,Automatic,5.0,2014
+7,Cascada,Gasoline,Manual,120.0,2014
+45,Town & Country,Gasoline,Automatic,287.0,2014
+2,Passat CC,Diesel,Automatic,140.0,2014
+10,B 250,Gasoline,Automatic,211.0,2014
+13,Bravo,Gasoline,Manual,140.0,2014
+10,GL 350,Diesel,Automatic,258.0,2014
+12,S7,Gasoline,Automatic,420.0,2014
+27,911,Gasoline,Automatic,349.0,2014
+6,iQ,Gasoline,Manual,68.0,2014
+20,Q70,Electric/Gasoline,Automatic,364.0,2014
+21,Splash,Gasoline,Manual,94.0,2014
+51,Ypsilon,Gasoline,Manual,69.0,2014
+19,C5,Diesel,Manual,140.0,2014
+19,C3 Picasso,Diesel,Manual,99.0,2015
+13,Scudo,Diesel,Manual,128.0,2015
+10,B 160,Diesel,Manual,90.0,2015
+2,T5,Diesel,Automatic,140.0,2015
+1,114,Diesel,Manual,95.0,2015
+19,DS5,Diesel,Manual,150.0,2015
+39,XV,Gasoline,Automatic,114.0,2015
+2,T5 Transporter,Diesel,Manual,102.0,2015
+21,SX4,Gasoline,Manual,120.0,2015
+4,Laguna,Diesel,Manual,173.0,2015
+20,Q50,Diesel,Automatic,170.0,2015
+13,Freemont,Diesel,Manual,170.0,2015
+5,207,Gasoline,Manual,120.0,2015
+3,Altea,Diesel,Manual,105.0,2015
+39,OUTBACK,Gasoline,Automatic,175.0,2015
+19,DS4,Gasoline,Manual,131.0,2015
+16,Cooper Countryman,Gasoline,Manual,122.0,2015
+48,Martin Vantage,Gasoline,Automatic,572.0,2015
+2,T5 Caravelle,Diesel,Manual,140.0,2015
+25,V70,Diesel,Automatic,215.0,2015
+40,Challenger,Gasoline,Automatic,309.0,2015
+17,iX35,Diesel,Manual,116.0,2015
+2,Amarok,Diesel,Manual,140.0,2015
+49,Ghost,Gasoline,Automatic,571.0,2015
+5,Bipper,Diesel,Manual,75.0,2015
+2,Phaeton,Gasoline,Automatic,334.0,2015
+2,T5 Multivan,Diesel,Automatic,179.0,2015
+10,CLS 400,Gasoline,Automatic,333.0,2015
+13,Ducato,Diesel,Manual,116.0,2015
+10,CLS 220,Diesel,Automatic,170.0,2015
+33,GS 450h,Electric/Gasoline,Automatic,345.0,2015
+10,GL 63 AMG,Gasoline,Automatic,557.0,2015
+18,Roomster,Gasoline,Manual,69.0,2015
+31,Lancer,Gasoline,Manual,117.0,2015
+2,CC,Gasoline,Automatic,299.0,2015
+5,107,Gasoline,Manual,68.0,2015
+10,CLS 350,Diesel,Automatic,258.0,2016
+7,Antara,Diesel,Manual,170.0,2016
+59,Ape,Gasoline,Manual,11.0,2016
+56,488,Gasoline,Automatic,670.0,2016
+22,Korando,Diesel,Automatic,178.0,2016
+2,Golf Cabriolet,Gasoline,Automatic,125.0,2016
+10,SLK 300,Gasoline,Automatic,245.0,2016
+10,S 500,Gasoline,Automatic,455.0,2016
+22,Tivoli,Gasoline,Manual,128.0,2016
+40,Dart,Gasoline,Automatic,188.0,2016
+2,Polo GTI,Gasoline,Manual,192.0,2016
+17,Genesis,Gasoline,Automatic,315.0,2016
+19,Nemo,Diesel,Manual,75.0,2016
+28,NV200,Diesel,Manual,110.0,2016
+16,Cooper Clubman,Gasoline,Automatic,136.0,2016
+53,Automobiles DS 5,Diesel,Automatic,181.0,2016
+10,GLE 450,Gasoline,Automatic,367.0,2016
+25,XC70,Diesel,Manual,163.0,2016
+55,JS 50,Diesel,Automatic,5.0,2016
+18,Yeti,Gasoline,Automatic,110.0,2016
+29,HR-V,Gasoline,Manual,131.0,2016
+1,125,Gasoline,Automatic,224.0,2016
+12,RS Q3,Gasoline,Automatic,430.0,2016
+1,M6,Gasoline,Automatic,600.0,2016
+2,Scirocco,Gasoline,Automatic,179.0,2016
+7,Movano,Diesel,Manual,131.0,2016
+5,Partner,Diesel,Manual,75.0,2016
+4,Rapid,Gasoline,Manual,114.0,2016
+38,Romeo MiTo,Diesel,Manual,95.0,2016
+19,Jumper,Diesel,Manual,131.0,2016
+7,Zafira Tourer,Diesel,Automatic,131.0,2016
+29,Odyssey,Gasoline,Automatic,283.0,2016
+10,GLS 350,Diesel,Automatic,258.0,2017
+1,X6 M,Gasoline,Automatic,575.0,2017
+1,i8,Electric/Gasoline,Automatic,362.0,2017
+68,B7,Gasoline,Automatic,608.0,2017
+48,Martin Rapide,Gasoline,Automatic,560.0,2017
+47,570S,Gasoline,Automatic,570.0,2017
+5,iOn,Electric,Automatic,48.0,2017
+17,H-1,Diesel,Automatic,170.0,2017
+10,G 350,Diesel,Automatic,245.0,2017
+19,C-Elysée,Gasoline,Manual,116.0,2017
+7,Meriva,Gasoline,Manual,140.0,2017
+28,Pulsar,Diesel,Manual,110.0,2017
+12,RS7,Gasoline,Automatic,605.0,2017
+16,One D Clubman,Diesel,Manual,116.0,2017
+29,NSX,Gasoline,Automatic,581.0,2017
+4,Twizy,Electric,Automatic,11.0,2017
+41,M.Go,Diesel,Automatic,8.0,2017
+28,Note,Gasoline,Manual,98.0,2017
+13,124 Spider,Gasoline,Manual,140.0,2017
+9,B-Max,Gasoline,Automatic,105.0,2017
+19,DS3,Gasoline,Automatic,110.0,2017
+1,325,Diesel,Automatic,224.0,2017
+16,Cooper S Cabrio,Gasoline,Automatic,192.0,2017
+14,Soul,Diesel,Automatic,136.0,2017
+10,E 250,Gasoline,Automatic,211.0,2017
+48,Martin,Gasoline,Automatic,604.0,2017
+10,GLE 250,Diesel,Automatic,204.0,2017
+1,335,Diesel,Automatic,313.0,2017
+44,Model X,Electric,Automatic,333.0,2017
+68,B5,Gasoline,Automatic,608.0,2017
+30,Kalina,Gasoline,Manual,98.0,2017
+16,Cooper S Clubman,Gasoline,Manual,192.0,2017
+1,418,Diesel,Manual,150.0,2017
+44,Model S,Electric,Automatic,532.0,2017
+10,GLA 220,Diesel,Automatic,177.0,2017
+10,GLC 220,Diesel,Automatic,170.0,2017
+16,Cooper SD,Diesel,Automatic,190.0,2017
+1,225,Electric/Gasoline,Automatic,224.0,2018
+39,Forester,Gasoline,Automatic,150.0,2018
+10,V 200,Diesel,Automatic,163.0,2018
+33,RC 300h,Electric/Gasoline,Automatic,223.0,2018
+10,A 45 AMG,Gasoline,Automatic,381.0,2018
+10,GLE 500,Electric/Gasoline,Automatic,333.0,2018
+10,CLA 45 AMG,Gasoline,Automatic,381.0,2018
+1,M3,Gasoline,Automatic,431.0,2018
+43,Senova X35,Gasoline,Manual,111.0,2018
+14,Carens,Gasoline,Manual,135.0,2018
+43,BJ20,Gasoline,Automatic,136.0,2018
+45,Pacifica,LPG,Automatic,291.0,2018
+40,Durango,Gasoline,Automatic,481.0,2018
+12,TT RS,Gasoline,Automatic,400.0,2018
+12,RS6,Gasoline,Automatic,605.0,2018
+75,C7,Gasoline,Manual,635.0,2018
+35,GranCabrio,Gasoline,Automatic,460.0,2018
+15,Dokker,Gasoline,Manual,102.0,2018
+13,Punto Evo,Gasoline,Manual,69.0,2018
+16,Cooper D,Diesel,Manual,150.0,2018
+6,Prius+,Electric/Gasoline,Automatic,136.0,2018
+5,Boxer,Diesel,Manual,163.0,2018
+16,One D,Diesel,Manual,95.0,2018
+9,Ka/Ka+,Gasoline,Manual,86.0,2018
+13,Punto,Gasoline,Manual,77.0,2018
+13,Fiorino,Gasoline,Manual,77.0,2018
+16,John Cooper Works,Gasoline,Automatic,231.0,2018
+9,Grand C-Max,Diesel,Manual,150.0,2018
+1,316,Diesel,Automatic,116.0,2018
+1,M1,Gasoline,Automatic,340.0,2018
+1,430,Gasoline,Manual,252.0,2018
+3,Toledo,Gasoline,Manual,110.0,2018
+3,Mii,Others,Manual,68.0,2018
+1,X6,Diesel,Automatic,313.0,2018
+16,One Clubman,Gasoline,Manual,102.0,2018
+25,V40 Cross Country,Diesel,Manual,120.0,2018
+2,Beetle,Gasoline,Manual,150.0,2018
+16,Cooper S Countryman,Gasoline,Automatic,192.0,2018
+14,Venga,Gasoline,Manual,125.0,2018
+7,Zafira,Diesel,Automatic,131.0,2018
+10,C 250,Diesel,Automatic,204.0,2018
+19,C4 Picasso,Gasoline,Automatic,131.0,2018
+12,A4 allroad,Diesel,Automatic,163.0,2018
+35,Ghibli,Diesel,Automatic,275.0,2018
+12,TTS,Gasoline,Automatic,310.0,2018
+14,Sorento,Diesel,Automatic,170.0,2018
+17,i40,Diesel,Manual,141.0,2018
+26,XF,Diesel,Automatic,179.0,2018
+1,550,Diesel,Automatic,400.0,2018
+1,440,Gasoline,Automatic,326.0,2018
+1,740,Diesel,Automatic,320.0,2018
+38,Romeo Quadrifoglio,Gasoline,Automatic,510.0,2018
+2,T6 Transporter,Diesel,Manual,102.0,2018
+1,216,Diesel,Manual,116.0,2018
+16,Cooper,Gasoline,Manual,136.0,2018
+7,Ampera,Electric,Automatic,204.0,2018
+35,Levante,Gasoline,Automatic,430.0,2018
+26,I-Pace,Electric,Automatic,400.0,2018
+21,Celerio,Gasoline,Automatic,68.0,2018
+10,CLS 450,Electric/Gasoline,Automatic,367.0,2019
+12,SQ7,Diesel,Automatic,435.0,2019
+13,Qubo,Gasoline,Manual,77.0,2019
+19,Jumpy,Diesel,Manual,122.0,2019
+10,SLC 180,Gasoline,Manual,156.0,2019
+9,Flex,Gasoline,Automatic,314.0,2019
+10,GLC 350,Diesel,Automatic,258.0,2019
+40,Charger,Gasoline,Automatic,309.0,2019
+10,GLC 43 AMG,Gasoline,Automatic,367.0,2019
+16,John Cooper Works Countryman,Gasoline,Automatic,306.0,2019
+1,435,Diesel,Automatic,313.0,2019
+1,640,Diesel,Automatic,320.0,2019
+11,Silverado,Gasoline,Automatic,355.0,2019
+12,A8,Diesel,Automatic,286.0,2019
+72,CTS,Gasoline,Automatic,649.0,2019
+10,C 43 AMG,Gasoline,Automatic,390.0,2019
+10,GLC 63 AMG,Gasoline,Automatic,476.0,2019
+10,E 53 AMG,Gasoline,Automatic,435.0,2019
+10,E 63 AMG,Gasoline,Automatic,571.0,2019
+1,750,Diesel,Automatic,400.0,2019
+1,M8,Gasoline,Automatic,625.0,2019
+10,G 63 AMG,Gasoline,Automatic,850.0,2019
+47,600LT,Gasoline,Automatic,600.0,2019
+47,720S,Gasoline,Automatic,721.0,2019
+75,Z06,Gasoline,Automatic,767.0,2019
+6,Prius,Electric/Gasoline,Automatic,98.0,2019
+28,E-NV200,Electric,Automatic,109.0,2019
+68,XD3,Diesel,Automatic,387.0,2019
+1,X5 M,Diesel,Automatic,400.0,2019
+10,E 350,Diesel,Automatic,258.0,2019
+1,X4,Diesel,Automatic,265.0,2019
+37,Rover Discovery,Diesel,Automatic,306.0,2019
+10,G 400,Diesel,Automatic,330.0,2019
+18,Rapid/Spaceback,Gasoline,Manual,95.0,2019
+10,G 500,Gasoline,Automatic,421.0,2019
+10,S 63 AMG,Gasoline,Automatic,612.0,2019
+15,Logan,Gasoline,Manual,73.0,2019
+9,Tourneo,Diesel,Automatic,120.0,2019
+77,Birò,Electric,Automatic,5.0,2019
+21,Baleno,Gasoline,Manual,111.0,2019
+6,Auris,Electric/Gasoline,Automatic,136.0,2019
+4,Kangoo Z.E.,Electric,Automatic,60.0,2019
+20,Q30,Diesel,Manual,109.0,2019
+65,1500,Gasoline,Automatic,401.0,2019
+7,Adam,Gasoline,Manual,101.0,2019
+7,Mokka X,Gasoline,Automatic,140.0,2019
+17,iX20,Gasoline,Automatic,125.0,2019
+19,C3 Aircross,Gasoline,Manual,110.0,2019
+4,Master,Diesel,Manual,145.0,2019
+33,CT 200h,Electric/Gasoline,Automatic,136.0,2019
+1,230,Gasoline,Automatic,252.0,2019
+14,Optima,Electric/Gasoline,Automatic,205.0,2019
+1,525,Diesel,Automatic,231.0,2019
+25,S60,Gasoline,Automatic,249.0,2019
+39,Levorg,Gasoline,Automatic,170.0,2019
+25,V40,Gasoline,Automatic,152.0,2019
+27,991,Gasoline,Automatic,450.0,2019
+14,Stonic,Gasoline,Automatic,120.0,2019
+34,Cherokee,Diesel,Automatic,194.0,2019
+37,Rover Discovery Sport,Gasoline,Automatic,241.0,2019
+10,GLC 250,Gasoline,Automatic,211.0,2019
+10,B 180,Diesel,Automatic,116.0,2019
+6,Hilux,Diesel,Automatic,150.0,2019
+12,Q7,Diesel,Automatic,286.0,2019
+9,C-Max,Gasoline,Manual,125.0,2019
+44,Model 3,Electric,Automatic,487.0,2019
+26,XJ,Diesel,Automatic,300.0,2019
+37,Rover Range Rover Velar,Diesel,Automatic,300.0,2019
+6,RAV 4,Gasoline,Automatic,218.0,2019
+2,T6 Caravelle,Diesel,Automatic,150.0,2020
+2,Golf Plus,Gasoline,Automatic,300.0,2020
+2,ID.3,Electric,Automatic,204.0,2020
+21,Across,Electric/Gasoline,Automatic,185.0,2020
+19,Grand C4 SpaceTourer,Diesel,Automatic,131.0,2020
+34,Grand Cherokee,Diesel,Automatic,250.0,2020
+12,A7,Diesel,Automatic,286.0,2020
+2,Passat Alltrack,Diesel,Automatic,190.0,2020
+14,Stinger,Gasoline,Automatic,366.0,2020
+9,Edge,Diesel,Automatic,238.0,2020
+1,630,Diesel,Automatic,265.0,2020
+2,T6.1 California,Diesel,Automatic,199.0,2020
+36,Continental,Gasoline,Automatic,549.0,2020
+12,RS3,Gasoline,Automatic,400.0,2020
+10,S 350,Diesel,Automatic,286.0,2020
+12,SQ5,Diesel,Automatic,347.0,2020
+12,RS4,Gasoline,Automatic,450.0,2020
+10,S 560,Gasoline,Automatic,469.0,2020
+12,RS5,Gasoline,Automatic,450.0,2020
+36,Bentayga,Gasoline,Automatic,635.0,2020
+29,e,Electric,Automatic,154.0,2020
+25,S90,Diesel,Automatic,190.0,2020
+26,XE,Gasoline,Automatic,250.0,2020
+25,V60 Cross Country,Gasoline,Automatic,250.0,2020
+26,F-Pace,Diesel,Automatic,300.0,2020
+37,Rover Range Rover Sport,Gasoline,Automatic,575.0,2020
+18,Citigo,Electric,Automatic,83.0,2020
+16,Cooper S,Gasoline,Automatic,192.0,2020
+10,GLA 250,Gasoline,Automatic,211.0,2020
+10,CLA 200,Gasoline,Automatic,163.0,2020
+1,220,Diesel,Automatic,190.0,2020
+11,Camaro,Gasoline,Manual,461.0,2020
+1,135,Gasoline,Automatic,306.0,2020
+10,CLA 220,Diesel,Automatic,190.0,2020
+1,330,Diesel,Automatic,265.0,2020
+1,X2 M,Gasoline,Automatic,306.0,2020
+37,Rover Range Rover Evoque,Diesel,Automatic,179.0,2020
+1,240,Gasoline,Automatic,340.0,2020
+10,A 180,Gasoline,Manual,136.0,2020
+2,Passat,Gasoline,Automatic,150.0,2020
+10,GLA 200,Gasoline,Automatic,156.0,2020
+3,Alhambra,Diesel,Automatic,150.0,2020
+1,120,Diesel,Automatic,190.0,2020
+2,Golf GTI,Gasoline,Automatic,245.0,2020
+10,B 220,Gasoline,Automatic,190.0,2020
+1,235,Gasoline,Automatic,306.0,2020
+1,Z4,Gasoline,Automatic,258.0,2020
+1,X3,Diesel,Automatic,190.0,2020
+10,C 300,Electric/Diesel,Automatic,194.0,2020
+10,V 220,Diesel,Automatic,163.0,2020
+10,C 400,Gasoline,Automatic,333.0,2020
+1,M2,Gasoline,Automatic,411.0,2020
+10,CLA 180,Gasoline,Automatic,136.0,2020
+1,530,Diesel,Automatic,286.0,2020
+10,V 250,Diesel,Automatic,190.0,2020
+10,E 400,Diesel,Automatic,330.0,2020
+1,730,Diesel,Automatic,265.0,2020
+25,V90 Cross Country,Diesel,Automatic,235.0,2020
+1,X5,Diesel,Automatic,286.0,2020
+1,X4 M,Gasoline,Automatic,510.0,2020
+19,C4 Cactus,Gasoline,Automatic,131.0,2020
+15,Lodgy,Gasoline,Manual,131.0,2020
+5,308,Gasoline,Manual,110.0,2020
+9,Tourneo Courier,Diesel,Manual,101.0,2020
+16,Cooper Cabrio,Gasoline,Manual,136.0,2020
+1,X2,Gasoline,Manual,140.0,2020
+10,Citan,Diesel,Manual,116.0,2020
+29,Civic,Gasoline,Manual,182.0,2020
+29,Jazz,Electric/Gasoline,Automatic,98.0,2020
+1,218,Diesel,Automatic,150.0,2020
+7,Crossland,Gasoline,Manual,110.0,2020
+23,forFour,Electric,Automatic,82.0,2020
+7,Astra,Diesel,Manual,122.0,2020
+38,Romeo Giulietta,Diesel,Manual,120.0,2020
+13,Talento,Diesel,Manual,120.0,2020
+1,118,Gasoline,Automatic,140.0,2020
+2,Golf Sportsvan,Diesel,Automatic,150.0,2020
+1,318,Diesel,Automatic,150.0,2020
+19,Grand C4 Picasso,Gasoline,Manual,131.0,2020
+23,forTwo,Electric,Automatic,82.0,2020
+3,Leon,Gasoline,Manual,150.0,2020
+14,ProCeed / pro_cee'd,Diesel,Automatic,136.0,2020
+9,Galaxy,Gasoline,Manual,165.0,2020
+1,320,Gasoline,Automatic,184.0,2020
+2,Crafter,Diesel,Manual,177.0,2020
+25,V60,Gasoline,Automatic,250.0,2020
+2,Touran,Diesel,Automatic,150.0,2020
+1,520,Diesel,Automatic,190.0,2020
+1,420,Diesel,Automatic,190.0,2020
+29,CR-V,Gasoline,Automatic,193.0,2020
+8,MX-30,Electric,Automatic,145.0,2021
+28,Leaf,Electric,Automatic,218.0,2021
+7,Mokka-E,Electric,Automatic,77.0,2021
+6,C-HR,Electric/Gasoline,Automatic,152.0,2021
+7,Vivaro,Diesel,Automatic,144.0,2021
+6,Corolla,Electric/Gasoline,Automatic,152.0,2021
+28,Navara,Diesel,Automatic,190.0,2021
+6,Supra,Gasoline,Automatic,258.0,2021
+2,T6 California,Diesel,Automatic,150.0,2021
+10,GLE 63 AMG,Gasoline,Automatic,612.0,2021
+10,GLS 600,Gasoline,Automatic,557.0,2021
+5,Rifter,Diesel,Automatic,131.0,2021
+5,2008,Diesel,Automatic,131.0,2021
+18,Enyaq,Electric,Automatic,179.0,2021
+31,Eclipse Cross,Electric/Gasoline,Automatic,188.0,2021
+10,C 200,Gasoline,Automatic,184.0,2021
+10,B 200,Gasoline,Automatic,163.0,2021
+9,Transit,Diesel,Automatic,185.0,2021
+9,Tourneo Custom,Diesel,Automatic,185.0,2021
+10,A 200,Diesel,Automatic,150.0,2021
+10,GLB 200,Diesel,Automatic,150.0,2021
+10,A 220,Diesel,Automatic,190.0,2021
+2,Golf Variant,Diesel,Automatic,150.0,2021
+5,Traveller,Electric,Automatic,136.0,2021
+2,Sharan,Gasoline,Automatic,150.0,2021
+5,508,Diesel,Automatic,131.0,2021
+72,XT4,Gasoline,Automatic,230.0,2021
+5,5008,Gasoline,Automatic,181.0,2021
+10,C 220,Diesel,Automatic,194.0,2021
+6,Yaris,Gasoline,Manual,125.0,2021
+7,Karl,Gasoline,Manual,73.0,2021
+2,up!,Gasoline,Manual,65.0,2021
+19,Spacetourer,Electric,Automatic,136.0,2021
+10,E 200,Gasoline,Automatic,197.0,2021
+10,GLB 220,Diesel,Automatic,190.0,2021
+10,Vito,Diesel,Automatic,237.0,2021
+9,Transit Custom,Diesel,Automatic,185.0,2021
+9,Explorer,Gasoline,Automatic,400.0,2021
+12,RS,Gasoline,Automatic,400.0,2021
+10,E 450,Gasoline,Automatic,367.0,2021
+4,Alpine A110,Gasoline,Automatic,292.0,2021
+9,F 150,Gasoline,Automatic,405.0,2021
+1,540,Gasoline,Automatic,340.0,2021
+27,Boxster,Gasoline,Automatic,299.0,2021
+12,A6 allroad,Diesel,Automatic,344.0,2021
+10,EQV 300,Electric,Automatic,204.0,2021
+10,S 450,Gasoline,Automatic,367.0,2021
+27,Cayman,Gasoline,Manual,400.0,2021
+40,RAM,Electric/Gasoline,Automatic,401.0,2021
+10,C 63 AMG,Gasoline,Automatic,510.0,2021
+10,AMG GT,Gasoline,Automatic,367.0,2021
+10,GLS 400,Diesel,Automatic,330.0,2021
+10,S 400,Diesel,Automatic,330.0,2021
+13,New Panda,Gasoline,Manual,69.0,2021
+27,Cayenne,Gasoline,Automatic,460.0,2021
+10,S 260,Diesel,Automatic,330.0,2021
+27,992,Gasoline,Automatic,581.0,2021
+13,Tipo,Gasoline,Manual,101.0,2021
+16,One,Gasoline,Automatic,102.0,2021
+21,SX4 S-Cross,Electric/Gasoline,Automatic,129.0,2021
+12,A1,Gasoline,Automatic,110.0,2021
+21,Vitara,Electric/Gasoline,Automatic,129.0,2021
+9,Transit Courier,Gasoline,Manual,101.0,2021
+4,Twingo,Gasoline,Manual,65.0,2021
+13,500C,Gasoline,Manual,71.0,2021
+14,Rio,Gasoline,Manual,84.0,2021
+21,Swift,Electric/Gasoline,Manual,83.0,2021
+15,Sandero,Gasoline,Manual,91.0,2021
+17,i10,Gasoline,Manual,67.0,2021
+13,500X,Gasoline,Automatic,150.0,2021
+1,116,Gasoline,Automatic,109.0,2021
+16,Cooper SE,Electric/Gasoline,Automatic,220.0,2021
+1,i3,Electric,Automatic,102.0,2021
+14,Picanto,Gasoline,Manual,101.0,2021
+7,Crossland X,Gasoline,Manual,83.0,2021
+19,C3,Gasoline,Automatic,110.0,2021
+9,Transit Connect,Gasoline,Manual,101.0,2021
+15,Duster,Gasoline,Manual,131.0,2021
+4,Kangoo,Diesel,Manual,116.0,2021
+13,Doblo,Diesel,Manual,105.0,2021
+52,595 Turismo,Gasoline,Manual,165.0,2021
+3,Arona,Gasoline,Automatic,150.0,2021
+28,Juke,Gasoline,Manual,114.0,2021
+8,CX-3,Gasoline,Automatic,121.0,2021
+8,3,Gasoline,Automatic,122.0,2021
+9,EcoSport,Gasoline,Manual,125.0,2021
+7,Insignia,Diesel,Automatic,122.0,2021
+14,Ceed SW / cee'd SW,Gasoline,Automatic,160.0,2021
+17,i30,Gasoline,Manual,120.0,2021
+52,595,Gasoline,Manual,179.0,2021
+34,Renegade,Gasoline,Manual,120.0,2021
+14,XCeed,Electric/Diesel,Manual,136.0,2021
+4,Clio,Electric/Gasoline,Automatic,140.0,2021
+21,Swace,Electric/Gasoline,Automatic,98.0,2021
+17,i20,Gasoline,Automatic,120.0,2021
+3,Ibiza,Gasoline,Automatic,110.0,2021
+18,Kamiq,CNG,Manual,90.0,2021
+17,Kona Elektro,Electric,Automatic,136.0,2021
+52,695,Gasoline,Manual,179.0,2021
+14,Niro,Electric/Gasoline,Automatic,141.0,2021
+14,e-Niro,Electric,Automatic,204.0,2021
+9,Mondeo,Diesel,Automatic,190.0,2021
+7,Grandland X,Diesel,Automatic,131.0,2021
+4,ZOE,Electric,Automatic,69.0,2021
+4,Scenic,Gasoline,Automatic,140.0,2021
+19,Berlingo,Gasoline,Automatic,131.0,2021
+28,Qashqai,Gasoline,Automatic,159.0,2021
+31,ASX,Gasoline,Automatic,150.0,2021
+4,Captur,Gasoline,Automatic,154.0,2021
+2,Polo,Gasoline,Automatic,150.0,2021
+2,T6 Kombi,Diesel,Manual,110.0,2021
+25,XC40,Gasoline,Automatic,163.0,2021
+14,Sportage,Diesel,Automatic,185.0,2021
+34,Compass,Electric/Gasoline,Automatic,189.0,2021
+3,Tarraco,Electric/Gasoline,Automatic,150.0,2021
+18,Kodiaq,Diesel,Automatic,150.0,2021
+9,Puma,Gasoline,Manual,200.0,2021
+4,Megane,Electric/Gasoline,Automatic,158.0,2021
+7,Zafira Life,Diesel,Automatic,177.0,2021
+4,Talisman,Gasoline,Automatic,224.0,2021
+4,Koleos,Gasoline,Automatic,158.0,2021
+9,S-Max,Electric/Gasoline,Automatic,190.0,2021
+9,Kuga,Electric/Gasoline,Automatic,152.0,2021
+9,Ranger,Diesel,Automatic,212.0,2021
+38,Romeo Stelvio,Gasoline,Automatic,280.0,2021
+9,Mustang,Gasoline,Automatic,450.0,2021
+25,V90,Diesel,Automatic,190.0,2021
+34,Gladiator,Diesel,Automatic,264.0,2021
+34,Wrangler,Electric/Gasoline,Automatic,381.0,2021
+12,S5,Diesel,Automatic,347.0,2021
+12,A6,Diesel,Automatic,286.0,2021
+12,A5,Diesel,Automatic,286.0,2021
+4,Espace,Gasoline,Automatic,224.0,2021
+2,Tiguan,Electric/Gasoline,Automatic,150.0,2021
+12,Q5,Diesel,Automatic,204.0,2021
+10,E 300,Gasoline,Automatic,258.0,2021
+53,Automobiles DS 7 Crossback,Electric/Gasoline,Automatic,299.0,2021
+12,S3,Gasoline,Automatic,310.0,2021
+12,TT,Gasoline,Automatic,245.0,2021
+25,XC90,Diesel,Automatic,235.0,2021
+12,Q3,Diesel,Automatic,200.0,2021
+12,A4,Diesel,Automatic,204.0,2021
+50,A110,Gasoline,Manual,292.0,2021
+5,208,Gasoline,Automatic,131.0,2021
+7,Mokka,Gasoline,Automatic,131.0,2021
+5,Expert,Diesel,Automatic,122.0,2021
+2,T-Roc,Gasoline,Automatic,150.0,2021
+8,CX-30,Gasoline,Automatic,186.0,2021
+24,Formentor,Gasoline,Manual,150.0,2021
+27,Macan,Gasoline,Automatic,441.0,2021
+12,e-tron,Electric,Automatic,476.0,2021
+27,Taycan,Electric,Automatic,571.0,2021
+12,S8,Gasoline,Automatic,700.0,2021
+27,Panamera,Electric/Gasoline,Automatic,560.0,2021
+48,Martin DBX,Gasoline,Automatic,551.0,2021
+9,Fiesta,Gasoline,Manual,95.0,2021
+9,Focus,Gasoline,Automatic,150.0,2021
+9,Grand Tourneo,Diesel,Automatic,120.0,2021
+2,Caddy,Diesel,Automatic,122.0,2021
+2,Touareg,Electric/Gasoline,Automatic,340.0,2021
+38,Romeo Giulia,Gasoline,Automatic,510.0,2021
+12,S6,Diesel,Automatic,349.0,2021
+1,M4,Gasoline,Automatic,510.0,2021
+36,Flying Spur,Gasoline,Automatic,549.0,2021
+13,500L,Gasoline,Manual,95.0,2021
+52,595C,Gasoline,Automatic,165.0,2021
+10,C 180,Diesel,Automatic,156.0,2021
+1,X1,Gasoline,Automatic,192.0,2021
+10,GLA 180,Diesel,Automatic,116.0,2021
+10,CLA 250,Gasoline,Automatic,224.0,2021
+10,E 220,Diesel,Automatic,194.0,2021
+10,A 250,Gasoline,Automatic,224.0,2021
+17,Santa Fe,Electric/Gasoline,Automatic,265.0,2021
+10,SLC 300,Gasoline,Automatic,245.0,2021
+10,Sprinter,Diesel,Automatic,190.0,2021
+2,Arteon,Diesel,Automatic,200.0,2021
+3,Ateca,Gasoline,Manual,150.0,2021
+4,Trafic,Diesel,Manual,145.0,2021
+7,Corsa,Electric,Automatic,136.0,2021
+17,Ioniq,Electric,Manual,136.0,2021
+17,Tucson,Gasoline,Manual,179.0,2021
+18,Karoq,Gasoline,Automatic,150.0,2021
+9,Tourneo Connect,Diesel,Automatic,120.0,2021
+4,Arkana,Gasoline,Manual,140.0,2021
+18,Superb,Gasoline,Automatic,150.0,2021
+8,MX-5,Gasoline,Manual,184.0,2021
+19,C4,Gasoline,Automatic,155.0,2021
+7,Combo,Gasoline,Automatic,131.0,2021
+17,Kona,Electric/Gasoline,Automatic,141.0,2021
+26,E-Pace,Diesel,Automatic,204.0,2021
+37,Rover Defender,Diesel,Automatic,200.0,2021
+2,T6 Multivan,Diesel,Automatic,204.0,2021
+48,Martin V8,Gasoline,Automatic,510.0,2021
+37,Rover Range Rover,Gasoline,Automatic,566.0,2021
+48,Martin DB11,Gasoline,Automatic,639.0,2021
+76,Glory 580,Gasoline,Automatic,145.0,2021
+10,GLC 300,Gasoline,Automatic,258.0,2021
+25,XC60,Electric/Gasoline,Automatic,341.0,2021
+1,X3 M,Diesel,Automatic,340.0,2021
+1,340,Gasoline,Automatic,374.0,2021
+10,GLE 350,Diesel,Automatic,272.0,2021
+10,V 300,Diesel,Automatic,237.0,2021
+10,GLE 400,Diesel,Automatic,330.0,2021
+68,B3,Gasoline,Automatic,462.0,2021
+26,F-Type,Gasoline,Automatic,575.0,2021
+6,Aygo,Gasoline,Manual,72.0,2021
+21,Ignis,Gasoline,Manual,83.0,2021
+8,2,Gasoline,Manual,90.0,2021
+28,NV250,Diesel,Manual,116.0,2021
+28,Micra,Gasoline,Automatic,92.0,2021
+14,Ceed / cee'd,Gasoline,Manual,120.0,2021
+2,Passat Variant,Gasoline,Automatic,150.0,2021
+8,6,Gasoline,Manual,165.0,2021
+8,CX-5,Gasoline,Automatic,194.0,2021
+18,Octavia,Gasoline,Automatic,110.0,2021
+5,3008,Gasoline,Automatic,181.0,2021
+18,Scala,Gasoline,Automatic,150.0,2021
+28,X-Trail,Gasoline,Automatic,159.0,2021
+4,Grand Scenic,Gasoline,Manual,158.0,2021
+2,Golf,Diesel,Automatic,150.0,2021
+12,A3,Gasoline,Automatic,150.0,2021
+4,Kadjar,Gasoline,Manual,158.0,2021
+19,C5 Aircross,Electric/Gasoline,Automatic,224.0,2021
+2,T-Cross,Gasoline,Automatic,150.0,2021
+12,Q2,Gasoline,Automatic,150.0,2021
+31,Outlander,Electric/Gasoline,Automatic,224.0,2021
+28,NV300,Diesel,Automatic,170.0,2021
+5,108,Gasoline,Manual,72.0,2021
+31,Space Star,Gasoline,Manual,71.0,2021
+19,C1,Gasoline,Manual,72.0,2021
+13,Panda,Electric/Gasoline,Manual,69.0,2021
+18,Fabia,Gasoline,Manual,60.0,2021
+13,500,Electric/Gasoline,Manual,71.0,2021

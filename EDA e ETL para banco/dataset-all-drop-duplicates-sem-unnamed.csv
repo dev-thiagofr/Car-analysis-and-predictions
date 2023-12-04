@@ -1,0 +1,836 @@
+make,model,fuel,gear,hp,year
+Mercedes-Benz,GLS 500,Gasoline,Automatic,455.0,2019
+Maserati,GranTurismo,Gasoline,Automatic,460.0,2016
+Renault,Express,Gasoline,Manual,101.0,2021
+Chrysler,Grand Voyager,Gasoline,Automatic,287.0,2013
+Volkswagen,Cross Golf,Gasoline,Manual,160.0,2014
+Mercedes-Benz,SLC 200,Gasoline,Automatic,184.0,2017
+Lancia,Voyager,Diesel,Automatic,178.0,2013
+DS,Automobiles DS 4,Gasoline,Manual,120.0,2012
+Lancia,Thema,Gasoline,Automatic,286.0,2012
+Toyota,Urban Cruiser,Diesel,Manual,90.0,2011
+Maserati,Quattroporte,Gasoline,Automatic,581.0,2021
+Alfa,Romeo 4C,Gasoline,Automatic,241.0,2018
+Fiat,500e,Electric,Automatic,117.0,2021
+Citroen,C15,Gasoline,Manual,69.0,2018
+Nissan,Evalia,Diesel,Manual,90.0,2015
+Hyundai,Bayon,Gasoline,Manual,101.0,2021
+Volkswagen,Golf GTE,Gasoline,Automatic,204.0,2017
+MINI,John Cooper Works Coupe,Gasoline,Manual,211.0,2012
+McLaren,GT,Gasoline,Automatic,620.0,2019
+Zhidou,D2S,Electric,Automatic,24.0,2019
+Mercedes-Benz,Marco Polo,Diesel,Automatic,163.0,2018
+Mercedes-Benz,A 35 AMG,Gasoline,Automatic,306.0,2019
+Morgan,3-Wheeler,Gasoline,Manual,68.0,2019
+MINI,Cooper Paceman,Gasoline,Manual,122.0,2014
+Mercedes-Benz,S 650,Gasoline,Automatic,630.0,2019
+Peugeot,301,Gasoline,Manual,82.0,2018
+Nissan,370Z,Gasoline,Automatic,328.0,2018
+Volkswagen,T6.1 Multivan,Diesel,Automatic,150.0,2020
+Volvo,C70,Diesel,Manual,177.0,2011
+Mercedes-Benz,GLE 43 AMG,Gasoline,Automatic,390.0,2017
+MINI,Cooper D Paceman,Diesel,Automatic,111.0,2013
+Volkswagen,T4 Allstar,Gasoline,Manual,75.0,2017
+SsangYong,MUSSO,Diesel,Manual,181.0,2020
+MINI,Cooper SD Paceman,Diesel,Automatic,143.0,2014
+Abarth,Punto EVO,Gasoline,Manual,163.0,2012
+Lada,Vesta,Gasoline,Manual,102.0,2019
+MINI,Cooper S Roadster,Gasoline,Manual,184.0,2012
+Volkswagen,T5 Shuttle,Diesel,Manual,140.0,2013
+Mercedes-Benz,GLB 250,Gasoline,Automatic,224.0,2020
+Lexus,GS 250,Gasoline,Automatic,209.0,2012
+Maybach,Pullman,Gasoline,Automatic,530.0,2018
+BMW,Z4 M,Gasoline,Manual,197.0,2020
+Lada,Priora,Gasoline,Manual,98.0,2011
+Mercedes-Benz,GLK 200,Diesel,Manual,143.0,2013
+Lexus,IS 300,Electric/Gasoline,Automatic,181.0,2013
+Citroen,C6,Diesel,Automatic,241.0,2012
+Mercedes-Benz,CLS 500,Gasoline,Automatic,408.0,2012
+Ferrari,812,Gasoline,Automatic,799.0,2021
+Ferrari,FF,Gasoline,Automatic,659.0,2013
+Chrysler,300C,Diesel,Automatic,218.0,2011
+Chrysler,Aspen,Gasoline,Automatic,340.0,2012
+Suzuki,Jimny,Gasoline,Manual,86.0,2014
+BMW,214,Diesel,Manual,95.0,2015
+Mercedes-Benz,G,Diesel,Automatic,204.0,2013
+Ferrari,F8 Tributo,Gasoline,Automatic,721.0,2021
+BMW,X7 M,Diesel,Automatic,400.0,2020
+BMW,M5,Gasoline,Automatic,560.0,2012
+Mercedes-Benz,CL 500,Gasoline,Automatic,435.0,2012
+Peugeot,407,Diesel,Manual,109.0,2011
+Alfa,Romeo Sportwagon,Diesel,Manual,170.0,2011
+DS,Automobiles DS 3,Gasoline,Manual,82.0,2016
+Brilliance,BS4,LPG,Manual,101.0,2011
+Toyota,GT86,Gasoline,Manual,280.0,2015
+Dodge,Grand Caravan,Gasoline,Automatic,287.0,2015
+Mercedes-Benz,CLS 63 AMG,Gasoline,Automatic,557.0,2011
+Lexus,LS 600,Electric/Gasoline,Automatic,445.0,2013
+MINI,Cooper SD Coupe,Diesel,Manual,143.0,2014
+Volvo,S80,Diesel,Automatic,181.0,2015
+Mercedes-Benz,300,Electric/Diesel,Automatic,204.0,2012
+Jaguar,XKR,Gasoline,Automatic,551.0,2012
+BMW,518,Diesel,Automatic,143.0,2014
+Ferrari,F12,Gasoline,Automatic,775.0,2017
+Honda,Accord,Gasoline,Automatic,156.0,2011
+Piaggio,Porter,Gasoline,Manual,71.0,2012
+Microcar,Due,Diesel,Automatic,10.0,2014
+Dodge,Caliber,Gasoline,Manual,156.0,2011
+FISKER,Karma,Electric/Gasoline,Automatic,408.0,2012
+Lamborghini,Gallardo,Gasoline,Automatic,560.0,2013
+Jaguar,XK,Gasoline,Automatic,385.0,2014
+Volvo,S60 Cross Country,Diesel,Automatic,190.0,2016
+Mercedes-Benz,GLA 45 AMG,Gasoline,Automatic,381.0,2016
+MINI,John Cooper Works Clubman,Gasoline,Automatic,231.0,2018
+BMW,323,Gasoline,Automatic,190.0,2011
+SsangYong,Rodius,Diesel,Automatic,155.0,2014
+Dodge,Journey,Diesel,Manual,140.0,2011
+Fiat,Linea,Gasoline,Manual,77.0,2012
+Alpina,D3,Diesel,Automatic,349.0,2015
+Lamborghini,Aventador,Gasoline,Automatic,700.0,2015
+Others,Landwind,Gasoline,Manual,97.0,2012
+Mercedes-Benz,ML 250,Diesel,Automatic,204.0,2013
+Mercedes-Benz,SLK 250,Gasoline,Automatic,204.0,2011
+Porsche,997,Gasoline,Automatic,345.0,2011
+Mercedes-Benz,GLK 220,Diesel,Automatic,170.0,2012
+Mercedes-Benz,CLS,Diesel,Automatic,265.0,2013
+Morgan,Roadster,Gasoline,Manual,286.0,2014
+BMW,528,Gasoline,Automatic,245.0,2017
+Lexus,UX 200,Gasoline,Automatic,171.0,2019
+Rolls-Royce,Wraith,Gasoline,Automatic,632.0,2014
+Mitsubishi,Pajero,Diesel,Automatic,190.0,2015
+BMW,760,Gasoline,Automatic,544.0,2016
+Mercedes-Benz,SL 500,Gasoline,Automatic,435.0,2014
+Mercedes-Benz,CLC,Gasoline,Manual,184.0,2011
+Mercedes-Benz,SL 350,Gasoline,Automatic,306.0,2014
+MINI,Clubvan,Diesel,Manual,111.0,2013
+BMW,M850,Gasoline,Automatic,530.0,2018
+Daihatsu,Cuore,Gasoline,Manual,69.0,2011
+Mercedes-Benz,ML 350,Diesel,Automatic,258.0,2015
+Lamborghini,Huracan,Gasoline,Automatic,610.0,2015
+Toyota,Mirai,Hydrogen,Automatic,154.0,2017
+Lexus,ES 300,Electric/Gasoline,Automatic,218.0,2021
+Renault,Alaskan,Diesel,Automatic,190.0,2021
+Volkswagen,T5 California,Diesel,Manual,140.0,2015
+Nissan,NP300,Diesel,Automatic,190.0,2021
+Daihatsu,Charade,Gasoline,Manual,99.0,2012
+smart,city-coupé/city-cabrio,Gasoline,Automatic,71.0,2014
+Audi,SQ8,Diesel,Automatic,435.0,2019
+Nissan,Primastar,Diesel,Manual,90.0,2012
+Fiat,Fullback,Diesel,Automatic,181.0,2018
+MINI,Cooper SD Cabrio,Diesel,Automatic,143.0,2015
+Dodge,Viper,Gasoline,Manual,649.0,2016
+McLaren,675LT,Gasoline,Automatic,674.0,2016
+Audi,S1,Gasoline,Manual,231.0,2018
+Daihatsu,Terios,Gasoline,Manual,105.0,2011
+Peugeot,RCZ,Gasoline,Manual,156.0,2011
+Volkswagen,T6.1 Transporter,Diesel,Manual,90.0,2021
+Volkswagen,New Beetle,Gasoline,Manual,105.0,2018
+Mitsubishi,Eclipse,Gasoline,Automatic,163.0,2019
+Mercedes-Benz,EQC 400,Electric,Automatic,408.0,2021
+Mercedes-Benz,S 600,Gasoline,Automatic,530.0,2015
+Abarth,595 Competizione,Gasoline,Manual,179.0,2019
+Mercedes-Benz,E 43 AMG,Gasoline,Automatic,401.0,2017
+Citroen,C4 SpaceTourer,Diesel,Manual,131.0,2018
+Lancia,MUSA,Gasoline,Manual,95.0,2012
+BMW,840,Diesel,Automatic,320.0,2019
+BMW,X7,Gasoline,Automatic,530.0,2019
+Lexus,LC 500,Gasoline,Automatic,464.0,2021
+Lexus,LS 500,Electric/Gasoline,Automatic,359.0,2021
+Mercedes-Benz,SLC 250,Diesel,Automatic,204.0,2016
+Citroen,C8,Diesel,Manual,136.0,2011
+Audi,RS Q8,Gasoline,Automatic,740.0,2021
+Lada,Taiga,Gasoline,Manual,83.0,2014
+Toyota,Proace,Diesel,Automatic,177.0,2019
+Mercedes-Benz,GLC 200,Diesel,Automatic,163.0,2020
+Lexus,NX 300,Electric/Gasoline,Automatic,197.0,2017
+Volkswagen,Transporter,Diesel,Manual,84.0,2016
+SsangYong,XLV,Diesel,Manual,116.0,2017
+Toyota,Camry,Electric/Gasoline,Automatic,218.0,2020
+Lexus,UX 250h,Electric/Gasoline,Automatic,184.0,2020
+Lexus,LX 570,Gasoline,Automatic,367.0,2021
+Audi,R8,Gasoline,Automatic,610.0,2018
+Audi,Q8,Diesel,Automatic,286.0,2019
+Lamborghini,Urus,Gasoline,Automatic,650.0,2019
+Toyota,Highlander,Others,Automatic,247.0,2021
+Ford,Transit Bus,Diesel,Manual,101.0,2011
+Infiniti,Q60,Gasoline,Automatic,405.0,2017
+SsangYong,REXTON,Diesel,Automatic,201.0,2021
+MINI,Cooper D Clubman,Diesel,Manual,111.0,2014
+Lexus,RX 450h,Electric/Gasoline,Automatic,313.0,2019
+Mercedes-Benz,GLB 180,Gasoline,Automatic,136.0,2021
+Hyundai,Grand Santa Fe,Diesel,Automatic,200.0,2017
+BMW,140,Gasoline,Automatic,340.0,2018
+Mercedes-Benz,CLS 250,Diesel,Automatic,204.0,2016
+DS,Automobiles DS 3 Crossback,Electric,Automatic,136.0,2020
+Volkswagen,ID.4,Electric,Automatic,204.0,2021
+MINI,One Countryman,Gasoline,Manual,102.0,2018
+Toyota,Land Cruiser,Gasoline,Automatic,339.0,2017
+Volkswagen,Polo Cross,Gasoline,Manual,105.0,2011
+Honda,CR-Z,Electric/Gasoline,Manual,114.0,2011
+Renault,Latitude,Diesel,Automatic,241.0,2011
+Volkswagen,Cross Touran,Diesel,Manual,105.0,2011
+Ford,Fusion,Gasoline,Manual,101.0,2011
+Suzuki,Kizashi,Gasoline,Manual,178.0,2011
+BMW,123,Diesel,Manual,204.0,2011
+Suzuki,Grand Vitara,Gasoline,Automatic,169.0,2011
+Volvo,C30,Diesel,Manual,114.0,2011
+Volvo,S40,Diesel,Manual,150.0,2011
+Hyundai,Getz,Gasoline,Manual,67.0,2011
+Bentley,Mulsanne,Gasoline,Automatic,513.0,2011
+Iveco,Daily,Diesel,Manual,126.0,2011
+Infiniti,EX30,Diesel,Automatic,238.0,2011
+Mazda,CX-7,Diesel,Manual,173.0,2011
+smart,brabus,Gasoline,Automatic,102.0,2011
+Honda,Insight,Electric/Gasoline,Automatic,98.0,2011
+Kia,Carnival,Diesel,Manual,150.0,2011
+Mercedes-Benz,ML 300,Diesel,Automatic,204.0,2011
+Volkswagen,Fox,Gasoline,Manual,60.0,2011
+Daihatsu,Sirion,Gasoline,Manual,91.0,2011
+Mitsubishi,I-MiEV,Electric,Automatic,48.0,2011
+Volvo,V50,Diesel,Manual,114.0,2011
+Subaru,Trezia,Diesel,Automatic,90.0,2012
+Volkswagen,Eos,Gasoline,Manual,122.0,2012
+MINI,Cooper S Coupe,Gasoline,Manual,184.0,2012
+Renault,Modus,Gasoline,Manual,75.0,2012
+SEAT,Exeo,Diesel,Manual,143.0,2012
+SEAT,Altea XL,Gasoline,Manual,105.0,2012
+MINI,One Cabrio,Gasoline,Manual,98.0,2012
+Mercedes-Benz,R 300,Diesel,Automatic,190.0,2012
+MINI,Cooper SD Clubman,Diesel,Manual,143.0,2012
+Volkswagen,Jetta,Diesel,Manual,105.0,2012
+Chevrolet,Malibu,Diesel,Manual,160.0,2012
+Citroen,C-Zero,Electric,Automatic,48.0,2012
+Subaru,Legacy,Diesel,Manual,150.0,2012
+MINI,Cooper S Paceman,Gasoline,Manual,184.0,2012
+Nissan,Pathfinder,Diesel,Manual,190.0,2012
+BMW,523,Gasoline,Manual,204.0,2012
+McLaren,MP4-12C,Gasoline,Automatic,625.0,2012
+Chevrolet,Volt,Electric/Gasoline,Automatic,151.0,2012
+Fiat,Grande Punto,Gasoline,Manual,69.0,2012
+MINI,One D Countryman,Diesel,Manual,90.0,2012
+MINI,Cooper SD Countryman,Diesel,Manual,143.0,2012
+Hyundai,Veloster,Gasoline,Manual,140.0,2012
+Mercedes-Benz,GLK 250,Diesel,Automatic,204.0,2012
+Mercedes-Benz,R 350,Diesel,Automatic,265.0,2012
+Renault,Grand Espace,Diesel,Automatic,173.0,2012
+Audi,S4,Gasoline,Automatic,333.0,2012
+Suzuki,Alto,Gasoline,Manual,68.0,2012
+Renault,Wind,Gasoline,Manual,102.0,2012
+BMW,328,Gasoline,Manual,245.0,2012
+Peugeot,206,Gasoline,Manual,60.0,2012
+Renault,Grand Modus,Diesel,Manual,88.0,2012
+Peugeot,807,Diesel,Manual,136.0,2012
+Alfa,Romeo 159,Diesel,Manual,170.0,2012
+Fiat,Sedici,Gasoline,Automatic,120.0,2012
+MINI,Cooper D Cabrio,Diesel,Manual,111.0,2012
+Citroen,C4 Aircross,Diesel,Manual,114.0,2013
+Mercedes-Benz,A 160,Gasoline,Automatic,95.0,2013
+Mercedes-Benz,C 350,Diesel,Automatic,265.0,2013
+MINI,Cooper Coupe,Gasoline,Manual,122.0,2013
+Lancia,Delta,Gasoline,Manual,140.0,2013
+Mercedes-Benz,250,Gasoline,Automatic,204.0,2013
+Nissan,Murano,Diesel,Automatic,190.0,2013
+Nissan,Qashqai+2,Diesel,Manual,131.0,2013
+Isuzu,D-Max,Diesel,Manual,163.0,2013
+BMW,428,Gasoline,Manual,245.0,2013
+Land,Rover Freelander,Diesel,Manual,150.0,2013
+Mercedes-Benz,SLS,Gasoline,Automatic,571.0,2013
+MINI,Cooper Roadster,Gasoline,Manual,122.0,2013
+Mercedes-Benz,E 500,Gasoline,Automatic,408.0,2013
+Chevrolet,Spark,Gasoline,Manual,82.0,2013
+Nissan,Pixo,Gasoline,Automatic,68.0,2013
+Chevrolet,Trax,Gasoline,Manual,116.0,2013
+Mercedes-Benz,SLK 200,Gasoline,Manual,184.0,2013
+Mercedes-Benz,Viano,Diesel,Automatic,224.0,2013
+BMW,535,Diesel,Automatic,313.0,2013
+Mercedes-Benz,GLK 350,Diesel,Automatic,265.0,2013
+Chevrolet,Aveo,Diesel,Manual,75.0,2013
+Cadillac,ATS,Gasoline,Manual,276.0,2013
+BMW,650,Gasoline,Automatic,449.0,2013
+Peugeot,4008,Diesel,Manual,150.0,2013
+Ferrari,458,Gasoline,Automatic,570.0,2013
+Lada,Niva,Gasoline,Manual,83.0,2013
+Skoda,Praktik,Gasoline,Manual,69.0,2013
+Opel,Agila,Gasoline,Automatic,94.0,2013
+Chevrolet,Captiva,Diesel,Manual,184.0,2013
+Mitsubishi,Colt,Gasoline,Manual,75.0,2013
+Lada,Granta,Gasoline,Manual,87.0,2013
+Toyota,Verso-S,Gasoline,Automatic,99.0,2014
+Volkswagen,T5 Kombi,Diesel,Manual,102.0,2014
+Subaru,Impreza,Gasoline,Manual,114.0,2014
+Chevrolet,Orlando,Diesel,Manual,163.0,2014
+Mazda,5,Gasoline,Manual,150.0,2014
+MINI,Cooper D Countryman,Diesel,Manual,111.0,2014
+Chevrolet,Cruze,Gasoline,Manual,140.0,2014
+Toyota,Verso,Gasoline,Manual,132.0,2014
+Toyota,Avensis,Gasoline,Manual,147.0,2014
+Aixam,City,Electric,Automatic,5.0,2014
+Opel,Cascada,Gasoline,Manual,120.0,2014
+Chrysler,Town & Country,Gasoline,Automatic,287.0,2014
+Volkswagen,Passat CC,Diesel,Automatic,140.0,2014
+Mercedes-Benz,B 250,Gasoline,Automatic,211.0,2014
+Fiat,Bravo,Gasoline,Manual,140.0,2014
+Mercedes-Benz,GL 350,Diesel,Automatic,258.0,2014
+Audi,S7,Gasoline,Automatic,420.0,2014
+Porsche,911,Gasoline,Automatic,349.0,2014
+Toyota,iQ,Gasoline,Manual,68.0,2014
+Infiniti,Q70,Electric/Gasoline,Automatic,364.0,2014
+Suzuki,Splash,Gasoline,Manual,94.0,2014
+Lancia,Ypsilon,Gasoline,Manual,69.0,2014
+Citroen,C5,Diesel,Manual,140.0,2014
+Citroen,C3 Picasso,Diesel,Manual,99.0,2015
+Fiat,Scudo,Diesel,Manual,128.0,2015
+Mercedes-Benz,B 160,Diesel,Manual,90.0,2015
+Volkswagen,T5,Diesel,Automatic,140.0,2015
+BMW,114,Diesel,Manual,95.0,2015
+Citroen,DS5,Diesel,Manual,150.0,2015
+Subaru,XV,Gasoline,Automatic,114.0,2015
+Volkswagen,T5 Transporter,Diesel,Manual,102.0,2015
+Suzuki,SX4,Gasoline,Manual,120.0,2015
+Renault,Laguna,Diesel,Manual,173.0,2015
+Infiniti,Q50,Diesel,Automatic,170.0,2015
+Fiat,Freemont,Diesel,Manual,170.0,2015
+Peugeot,207,Gasoline,Manual,120.0,2015
+SEAT,Altea,Diesel,Manual,105.0,2015
+Subaru,OUTBACK,Gasoline,Automatic,175.0,2015
+Citroen,DS4,Gasoline,Manual,131.0,2015
+MINI,Cooper Countryman,Gasoline,Manual,122.0,2015
+Aston,Martin Vantage,Gasoline,Automatic,572.0,2015
+Volkswagen,T5 Caravelle,Diesel,Manual,140.0,2015
+Volvo,V70,Diesel,Automatic,215.0,2015
+Dodge,Challenger,Gasoline,Automatic,309.0,2015
+Hyundai,iX35,Diesel,Manual,116.0,2015
+Volkswagen,Amarok,Diesel,Manual,140.0,2015
+Rolls-Royce,Ghost,Gasoline,Automatic,571.0,2015
+Peugeot,Bipper,Diesel,Manual,75.0,2015
+Volkswagen,Phaeton,Gasoline,Automatic,334.0,2015
+Volkswagen,T5 Multivan,Diesel,Automatic,179.0,2015
+Mercedes-Benz,CLS 400,Gasoline,Automatic,333.0,2015
+Fiat,Ducato,Diesel,Manual,116.0,2015
+Mercedes-Benz,CLS 220,Diesel,Automatic,170.0,2015
+Lexus,GS 450h,Electric/Gasoline,Automatic,345.0,2015
+Mercedes-Benz,GL 63 AMG,Gasoline,Automatic,557.0,2015
+Skoda,Roomster,Gasoline,Manual,69.0,2015
+Mitsubishi,Lancer,Gasoline,Manual,117.0,2015
+Volkswagen,CC,Gasoline,Automatic,299.0,2015
+Peugeot,107,Gasoline,Manual,68.0,2015
+Mercedes-Benz,CLS 350,Diesel,Automatic,258.0,2016
+Opel,Antara,Diesel,Manual,170.0,2016
+Piaggio,Ape,Gasoline,Manual,11.0,2016
+Ferrari,488,Gasoline,Automatic,670.0,2016
+SsangYong,Korando,Diesel,Automatic,178.0,2016
+Volkswagen,Golf Cabriolet,Gasoline,Automatic,125.0,2016
+Mercedes-Benz,SLK 300,Gasoline,Automatic,245.0,2016
+Mercedes-Benz,S 500,Gasoline,Automatic,455.0,2016
+SsangYong,Tivoli,Gasoline,Manual,128.0,2016
+Dodge,Dart,Gasoline,Automatic,188.0,2016
+Volkswagen,Polo GTI,Gasoline,Manual,192.0,2016
+Hyundai,Genesis,Gasoline,Automatic,315.0,2016
+Citroen,Nemo,Diesel,Manual,75.0,2016
+Nissan,NV200,Diesel,Manual,110.0,2016
+MINI,Cooper Clubman,Gasoline,Automatic,136.0,2016
+DS,Automobiles DS 5,Diesel,Automatic,181.0,2016
+Mercedes-Benz,GLE 450,Gasoline,Automatic,367.0,2016
+Volvo,XC70,Diesel,Manual,163.0,2016
+Ligier,JS 50,Diesel,Automatic,5.0,2016
+Skoda,Yeti,Gasoline,Automatic,110.0,2016
+Honda,HR-V,Gasoline,Manual,131.0,2016
+BMW,125,Gasoline,Automatic,224.0,2016
+Audi,RS Q3,Gasoline,Automatic,430.0,2016
+BMW,M6,Gasoline,Automatic,600.0,2016
+Volkswagen,Scirocco,Gasoline,Automatic,179.0,2016
+Opel,Movano,Diesel,Manual,131.0,2016
+Peugeot,Partner,Diesel,Manual,75.0,2016
+Renault,Rapid,Gasoline,Manual,114.0,2016
+Alfa,Romeo MiTo,Diesel,Manual,95.0,2016
+Citroen,Jumper,Diesel,Manual,131.0,2016
+Opel,Zafira Tourer,Diesel,Automatic,131.0,2016
+Honda,Odyssey,Gasoline,Automatic,283.0,2016
+Mercedes-Benz,GLS 350,Diesel,Automatic,258.0,2017
+BMW,X6 M,Gasoline,Automatic,575.0,2017
+BMW,i8,Electric/Gasoline,Automatic,362.0,2017
+Alpina,B7,Gasoline,Automatic,608.0,2017
+Aston,Martin Rapide,Gasoline,Automatic,560.0,2017
+McLaren,570S,Gasoline,Automatic,570.0,2017
+Peugeot,iOn,Electric,Automatic,48.0,2017
+Hyundai,H-1,Diesel,Automatic,170.0,2017
+Mercedes-Benz,G 350,Diesel,Automatic,245.0,2017
+Citroen,C-Elysée,Gasoline,Manual,116.0,2017
+Opel,Meriva,Gasoline,Manual,140.0,2017
+Nissan,Pulsar,Diesel,Manual,110.0,2017
+Audi,RS7,Gasoline,Automatic,605.0,2017
+MINI,One D Clubman,Diesel,Manual,116.0,2017
+Honda,NSX,Gasoline,Automatic,581.0,2017
+Renault,Twizy,Electric,Automatic,11.0,2017
+Microcar,M.Go,Diesel,Automatic,8.0,2017
+Nissan,Note,Gasoline,Manual,98.0,2017
+Fiat,124 Spider,Gasoline,Manual,140.0,2017
+Ford,B-Max,Gasoline,Automatic,105.0,2017
+Citroen,DS3,Gasoline,Automatic,110.0,2017
+BMW,325,Diesel,Automatic,224.0,2017
+MINI,Cooper S Cabrio,Gasoline,Automatic,192.0,2017
+Kia,Soul,Diesel,Automatic,136.0,2017
+Mercedes-Benz,E 250,Gasoline,Automatic,211.0,2017
+Aston,Martin,Gasoline,Automatic,604.0,2017
+Mercedes-Benz,GLE 250,Diesel,Automatic,204.0,2017
+BMW,335,Diesel,Automatic,313.0,2017
+Tesla,Model X,Electric,Automatic,333.0,2017
+Alpina,B5,Gasoline,Automatic,608.0,2017
+Lada,Kalina,Gasoline,Manual,98.0,2017
+MINI,Cooper S Clubman,Gasoline,Manual,192.0,2017
+BMW,418,Diesel,Manual,150.0,2017
+Tesla,Model S,Electric,Automatic,532.0,2017
+Mercedes-Benz,GLA 220,Diesel,Automatic,177.0,2017
+Mercedes-Benz,GLC 220,Diesel,Automatic,170.0,2017
+MINI,Cooper SD,Diesel,Automatic,190.0,2017
+BMW,225,Electric/Gasoline,Automatic,224.0,2018
+Subaru,Forester,Gasoline,Automatic,150.0,2018
+Mercedes-Benz,V 200,Diesel,Automatic,163.0,2018
+Lexus,RC 300h,Electric/Gasoline,Automatic,223.0,2018
+Mercedes-Benz,A 45 AMG,Gasoline,Automatic,381.0,2018
+Mercedes-Benz,GLE 500,Electric/Gasoline,Automatic,333.0,2018
+Mercedes-Benz,CLA 45 AMG,Gasoline,Automatic,381.0,2018
+BMW,M3,Gasoline,Automatic,431.0,2018
+Baic,Senova X35,Gasoline,Manual,111.0,2018
+Kia,Carens,Gasoline,Manual,135.0,2018
+Baic,BJ20,Gasoline,Automatic,136.0,2018
+Chrysler,Pacifica,LPG,Automatic,291.0,2018
+Dodge,Durango,Gasoline,Automatic,481.0,2018
+Audi,TT RS,Gasoline,Automatic,400.0,2018
+Audi,RS6,Gasoline,Automatic,605.0,2018
+Corvette,C7,Gasoline,Manual,635.0,2018
+Maserati,GranCabrio,Gasoline,Automatic,460.0,2018
+Dacia,Dokker,Gasoline,Manual,102.0,2018
+Fiat,Punto Evo,Gasoline,Manual,69.0,2018
+MINI,Cooper D,Diesel,Manual,150.0,2018
+Toyota,Prius+,Electric/Gasoline,Automatic,136.0,2018
+Peugeot,Boxer,Diesel,Manual,163.0,2018
+MINI,One D,Diesel,Manual,95.0,2018
+Ford,Ka/Ka+,Gasoline,Manual,86.0,2018
+Fiat,Punto,Gasoline,Manual,77.0,2018
+Fiat,Fiorino,Gasoline,Manual,77.0,2018
+MINI,John Cooper Works,Gasoline,Automatic,231.0,2018
+Ford,Grand C-Max,Diesel,Manual,150.0,2018
+BMW,316,Diesel,Automatic,116.0,2018
+BMW,M1,Gasoline,Automatic,340.0,2018
+BMW,430,Gasoline,Manual,252.0,2018
+SEAT,Toledo,Gasoline,Manual,110.0,2018
+SEAT,Mii,Others,Manual,68.0,2018
+BMW,X6,Diesel,Automatic,313.0,2018
+MINI,One Clubman,Gasoline,Manual,102.0,2018
+Volvo,V40 Cross Country,Diesel,Manual,120.0,2018
+Volkswagen,Beetle,Gasoline,Manual,150.0,2018
+MINI,Cooper S Countryman,Gasoline,Automatic,192.0,2018
+Kia,Venga,Gasoline,Manual,125.0,2018
+Opel,Zafira,Diesel,Automatic,131.0,2018
+Mercedes-Benz,C 250,Diesel,Automatic,204.0,2018
+Citroen,C4 Picasso,Gasoline,Automatic,131.0,2018
+Audi,A4 allroad,Diesel,Automatic,163.0,2018
+Maserati,Ghibli,Diesel,Automatic,275.0,2018
+Audi,TTS,Gasoline,Automatic,310.0,2018
+Kia,Sorento,Diesel,Automatic,170.0,2018
+Hyundai,i40,Diesel,Manual,141.0,2018
+Jaguar,XF,Diesel,Automatic,179.0,2018
+BMW,550,Diesel,Automatic,400.0,2018
+BMW,440,Gasoline,Automatic,326.0,2018
+BMW,740,Diesel,Automatic,320.0,2018
+Alfa,Romeo Quadrifoglio,Gasoline,Automatic,510.0,2018
+Volkswagen,T6 Transporter,Diesel,Manual,102.0,2018
+BMW,216,Diesel,Manual,116.0,2018
+MINI,Cooper,Gasoline,Manual,136.0,2018
+Opel,Ampera,Electric,Automatic,204.0,2018
+Maserati,Levante,Gasoline,Automatic,430.0,2018
+Jaguar,I-Pace,Electric,Automatic,400.0,2018
+Suzuki,Celerio,Gasoline,Automatic,68.0,2018
+Mercedes-Benz,CLS 450,Electric/Gasoline,Automatic,367.0,2019
+Audi,SQ7,Diesel,Automatic,435.0,2019
+Fiat,Qubo,Gasoline,Manual,77.0,2019
+Citroen,Jumpy,Diesel,Manual,122.0,2019
+Mercedes-Benz,SLC 180,Gasoline,Manual,156.0,2019
+Ford,Flex,Gasoline,Automatic,314.0,2019
+Mercedes-Benz,GLC 350,Diesel,Automatic,258.0,2019
+Dodge,Charger,Gasoline,Automatic,309.0,2019
+Mercedes-Benz,GLC 43 AMG,Gasoline,Automatic,367.0,2019
+MINI,John Cooper Works Countryman,Gasoline,Automatic,306.0,2019
+BMW,435,Diesel,Automatic,313.0,2019
+BMW,640,Diesel,Automatic,320.0,2019
+Chevrolet,Silverado,Gasoline,Automatic,355.0,2019
+Audi,A8,Diesel,Automatic,286.0,2019
+Cadillac,CTS,Gasoline,Automatic,649.0,2019
+Mercedes-Benz,C 43 AMG,Gasoline,Automatic,390.0,2019
+Mercedes-Benz,GLC 63 AMG,Gasoline,Automatic,476.0,2019
+Mercedes-Benz,E 53 AMG,Gasoline,Automatic,435.0,2019
+Mercedes-Benz,E 63 AMG,Gasoline,Automatic,571.0,2019
+BMW,750,Diesel,Automatic,400.0,2019
+BMW,M8,Gasoline,Automatic,625.0,2019
+Mercedes-Benz,G 63 AMG,Gasoline,Automatic,850.0,2019
+McLaren,600LT,Gasoline,Automatic,600.0,2019
+McLaren,720S,Gasoline,Automatic,721.0,2019
+Corvette,Z06,Gasoline,Automatic,767.0,2019
+Toyota,Prius,Electric/Gasoline,Automatic,98.0,2019
+Nissan,E-NV200,Electric,Automatic,109.0,2019
+Alpina,XD3,Diesel,Automatic,387.0,2019
+BMW,X5 M,Diesel,Automatic,400.0,2019
+Mercedes-Benz,E 350,Diesel,Automatic,258.0,2019
+BMW,X4,Diesel,Automatic,265.0,2019
+Land,Rover Discovery,Diesel,Automatic,306.0,2019
+Mercedes-Benz,G 400,Diesel,Automatic,330.0,2019
+Skoda,Rapid/Spaceback,Gasoline,Manual,95.0,2019
+Mercedes-Benz,G 500,Gasoline,Automatic,421.0,2019
+Mercedes-Benz,S 63 AMG,Gasoline,Automatic,612.0,2019
+Dacia,Logan,Gasoline,Manual,73.0,2019
+Ford,Tourneo,Diesel,Automatic,120.0,2019
+Estrima,Birò,Electric,Automatic,5.0,2019
+Suzuki,Baleno,Gasoline,Manual,111.0,2019
+Toyota,Auris,Electric/Gasoline,Automatic,136.0,2019
+Renault,Kangoo Z.E.,Electric,Automatic,60.0,2019
+Infiniti,Q30,Diesel,Manual,109.0,2019
+RAM,1500,Gasoline,Automatic,401.0,2019
+Opel,Adam,Gasoline,Manual,101.0,2019
+Opel,Mokka X,Gasoline,Automatic,140.0,2019
+Hyundai,iX20,Gasoline,Automatic,125.0,2019
+Citroen,C3 Aircross,Gasoline,Manual,110.0,2019
+Renault,Master,Diesel,Manual,145.0,2019
+Lexus,CT 200h,Electric/Gasoline,Automatic,136.0,2019
+BMW,230,Gasoline,Automatic,252.0,2019
+Kia,Optima,Electric/Gasoline,Automatic,205.0,2019
+BMW,525,Diesel,Automatic,231.0,2019
+Volvo,S60,Gasoline,Automatic,249.0,2019
+Subaru,Levorg,Gasoline,Automatic,170.0,2019
+Volvo,V40,Gasoline,Automatic,152.0,2019
+Porsche,991,Gasoline,Automatic,450.0,2019
+Kia,Stonic,Gasoline,Automatic,120.0,2019
+Jeep,Cherokee,Diesel,Automatic,194.0,2019
+Land,Rover Discovery Sport,Gasoline,Automatic,241.0,2019
+Mercedes-Benz,GLC 250,Gasoline,Automatic,211.0,2019
+Mercedes-Benz,B 180,Diesel,Automatic,116.0,2019
+Toyota,Hilux,Diesel,Automatic,150.0,2019
+Audi,Q7,Diesel,Automatic,286.0,2019
+Ford,C-Max,Gasoline,Manual,125.0,2019
+Tesla,Model 3,Electric,Automatic,487.0,2019
+Jaguar,XJ,Diesel,Automatic,300.0,2019
+Land,Rover Range Rover Velar,Diesel,Automatic,300.0,2019
+Toyota,RAV 4,Gasoline,Automatic,218.0,2019
+Volkswagen,T6 Caravelle,Diesel,Automatic,150.0,2020
+Volkswagen,Golf Plus,Gasoline,Automatic,300.0,2020
+Volkswagen,ID.3,Electric,Automatic,204.0,2020
+Suzuki,Across,Electric/Gasoline,Automatic,185.0,2020
+Citroen,Grand C4 SpaceTourer,Diesel,Automatic,131.0,2020
+Jeep,Grand Cherokee,Diesel,Automatic,250.0,2020
+Audi,A7,Diesel,Automatic,286.0,2020
+Volkswagen,Passat Alltrack,Diesel,Automatic,190.0,2020
+Kia,Stinger,Gasoline,Automatic,366.0,2020
+Ford,Edge,Diesel,Automatic,238.0,2020
+BMW,630,Diesel,Automatic,265.0,2020
+Volkswagen,T6.1 California,Diesel,Automatic,199.0,2020
+Bentley,Continental,Gasoline,Automatic,549.0,2020
+Audi,RS3,Gasoline,Automatic,400.0,2020
+Mercedes-Benz,S 350,Diesel,Automatic,286.0,2020
+Audi,SQ5,Diesel,Automatic,347.0,2020
+Audi,RS4,Gasoline,Automatic,450.0,2020
+Mercedes-Benz,S 560,Gasoline,Automatic,469.0,2020
+Audi,RS5,Gasoline,Automatic,450.0,2020
+Bentley,Bentayga,Gasoline,Automatic,635.0,2020
+Honda,e,Electric,Automatic,154.0,2020
+Volvo,S90,Diesel,Automatic,190.0,2020
+Jaguar,XE,Gasoline,Automatic,250.0,2020
+Volvo,V60 Cross Country,Gasoline,Automatic,250.0,2020
+Jaguar,F-Pace,Diesel,Automatic,300.0,2020
+Land,Rover Range Rover Sport,Gasoline,Automatic,575.0,2020
+Skoda,Citigo,Electric,Automatic,83.0,2020
+MINI,Cooper S,Gasoline,Automatic,192.0,2020
+Mercedes-Benz,GLA 250,Gasoline,Automatic,211.0,2020
+Mercedes-Benz,CLA 200,Gasoline,Automatic,163.0,2020
+BMW,220,Diesel,Automatic,190.0,2020
+Chevrolet,Camaro,Gasoline,Manual,461.0,2020
+BMW,135,Gasoline,Automatic,306.0,2020
+Mercedes-Benz,CLA 220,Diesel,Automatic,190.0,2020
+BMW,330,Diesel,Automatic,265.0,2020
+BMW,X2 M,Gasoline,Automatic,306.0,2020
+Land,Rover Range Rover Evoque,Diesel,Automatic,179.0,2020
+BMW,240,Gasoline,Automatic,340.0,2020
+Mercedes-Benz,A 180,Gasoline,Manual,136.0,2020
+Volkswagen,Passat,Gasoline,Automatic,150.0,2020
+Mercedes-Benz,GLA 200,Gasoline,Automatic,156.0,2020
+SEAT,Alhambra,Diesel,Automatic,150.0,2020
+BMW,120,Diesel,Automatic,190.0,2020
+Volkswagen,Golf GTI,Gasoline,Automatic,245.0,2020
+Mercedes-Benz,B 220,Gasoline,Automatic,190.0,2020
+BMW,235,Gasoline,Automatic,306.0,2020
+BMW,Z4,Gasoline,Automatic,258.0,2020
+BMW,X3,Diesel,Automatic,190.0,2020
+Mercedes-Benz,C 300,Electric/Diesel,Automatic,194.0,2020
+Mercedes-Benz,V 220,Diesel,Automatic,163.0,2020
+Mercedes-Benz,C 400,Gasoline,Automatic,333.0,2020
+BMW,M2,Gasoline,Automatic,411.0,2020
+Mercedes-Benz,CLA 180,Gasoline,Automatic,136.0,2020
+BMW,530,Diesel,Automatic,286.0,2020
+Mercedes-Benz,V 250,Diesel,Automatic,190.0,2020
+Mercedes-Benz,E 400,Diesel,Automatic,330.0,2020
+BMW,730,Diesel,Automatic,265.0,2020
+Volvo,V90 Cross Country,Diesel,Automatic,235.0,2020
+BMW,X5,Diesel,Automatic,286.0,2020
+BMW,X4 M,Gasoline,Automatic,510.0,2020
+Citroen,C4 Cactus,Gasoline,Automatic,131.0,2020
+Dacia,Lodgy,Gasoline,Manual,131.0,2020
+Peugeot,308,Gasoline,Manual,110.0,2020
+Ford,Tourneo Courier,Diesel,Manual,101.0,2020
+MINI,Cooper Cabrio,Gasoline,Manual,136.0,2020
+BMW,X2,Gasoline,Manual,140.0,2020
+Mercedes-Benz,Citan,Diesel,Manual,116.0,2020
+Honda,Civic,Gasoline,Manual,182.0,2020
+Honda,Jazz,Electric/Gasoline,Automatic,98.0,2020
+BMW,218,Diesel,Automatic,150.0,2020
+Opel,Crossland,Gasoline,Manual,110.0,2020
+smart,forFour,Electric,Automatic,82.0,2020
+Opel,Astra,Diesel,Manual,122.0,2020
+Alfa,Romeo Giulietta,Diesel,Manual,120.0,2020
+Fiat,Talento,Diesel,Manual,120.0,2020
+BMW,118,Gasoline,Automatic,140.0,2020
+Volkswagen,Golf Sportsvan,Diesel,Automatic,150.0,2020
+BMW,318,Diesel,Automatic,150.0,2020
+Citroen,Grand C4 Picasso,Gasoline,Manual,131.0,2020
+smart,forTwo,Electric,Automatic,82.0,2020
+SEAT,Leon,Gasoline,Manual,150.0,2020
+Kia,ProCeed / pro_cee'd,Diesel,Automatic,136.0,2020
+Ford,Galaxy,Gasoline,Manual,165.0,2020
+BMW,320,Gasoline,Automatic,184.0,2020
+Volkswagen,Crafter,Diesel,Manual,177.0,2020
+Volvo,V60,Gasoline,Automatic,250.0,2020
+Volkswagen,Touran,Diesel,Automatic,150.0,2020
+BMW,520,Diesel,Automatic,190.0,2020
+BMW,420,Diesel,Automatic,190.0,2020
+Honda,CR-V,Gasoline,Automatic,193.0,2020
+Mazda,MX-30,Electric,Automatic,145.0,2021
+Nissan,Leaf,Electric,Automatic,218.0,2021
+Opel,Mokka-E,Electric,Automatic,77.0,2021
+Toyota,C-HR,Electric/Gasoline,Automatic,152.0,2021
+Opel,Vivaro,Diesel,Automatic,144.0,2021
+Toyota,Corolla,Electric/Gasoline,Automatic,152.0,2021
+Nissan,Navara,Diesel,Automatic,190.0,2021
+Toyota,Supra,Gasoline,Automatic,258.0,2021
+Volkswagen,T6 California,Diesel,Automatic,150.0,2021
+Mercedes-Benz,GLE 63 AMG,Gasoline,Automatic,612.0,2021
+Mercedes-Benz,GLS 600,Gasoline,Automatic,557.0,2021
+Peugeot,Rifter,Diesel,Automatic,131.0,2021
+Peugeot,2008,Diesel,Automatic,131.0,2021
+Skoda,Enyaq,Electric,Automatic,179.0,2021
+Mitsubishi,Eclipse Cross,Electric/Gasoline,Automatic,188.0,2021
+Mercedes-Benz,C 200,Gasoline,Automatic,184.0,2021
+Mercedes-Benz,B 200,Gasoline,Automatic,163.0,2021
+Ford,Transit,Diesel,Automatic,185.0,2021
+Ford,Tourneo Custom,Diesel,Automatic,185.0,2021
+Mercedes-Benz,A 200,Diesel,Automatic,150.0,2021
+Mercedes-Benz,GLB 200,Diesel,Automatic,150.0,2021
+Mercedes-Benz,A 220,Diesel,Automatic,190.0,2021
+Volkswagen,Golf Variant,Diesel,Automatic,150.0,2021
+Peugeot,Traveller,Electric,Automatic,136.0,2021
+Volkswagen,Sharan,Gasoline,Automatic,150.0,2021
+Peugeot,508,Diesel,Automatic,131.0,2021
+Cadillac,XT4,Gasoline,Automatic,230.0,2021
+Peugeot,5008,Gasoline,Automatic,181.0,2021
+Mercedes-Benz,C 220,Diesel,Automatic,194.0,2021
+Toyota,Yaris,Gasoline,Manual,125.0,2021
+Opel,Karl,Gasoline,Manual,73.0,2021
+Volkswagen,up!,Gasoline,Manual,65.0,2021
+Citroen,Spacetourer,Electric,Automatic,136.0,2021
+Mercedes-Benz,E 200,Gasoline,Automatic,197.0,2021
+Mercedes-Benz,GLB 220,Diesel,Automatic,190.0,2021
+Mercedes-Benz,Vito,Diesel,Automatic,237.0,2021
+Ford,Transit Custom,Diesel,Automatic,185.0,2021
+Ford,Explorer,Gasoline,Automatic,400.0,2021
+Audi,RS,Gasoline,Automatic,400.0,2021
+Mercedes-Benz,E 450,Gasoline,Automatic,367.0,2021
+Renault,Alpine A110,Gasoline,Automatic,292.0,2021
+Ford,F 150,Gasoline,Automatic,405.0,2021
+BMW,540,Gasoline,Automatic,340.0,2021
+Porsche,Boxster,Gasoline,Automatic,299.0,2021
+Audi,A6 allroad,Diesel,Automatic,344.0,2021
+Mercedes-Benz,EQV 300,Electric,Automatic,204.0,2021
+Mercedes-Benz,S 450,Gasoline,Automatic,367.0,2021
+Porsche,Cayman,Gasoline,Manual,400.0,2021
+Dodge,RAM,Electric/Gasoline,Automatic,401.0,2021
+Mercedes-Benz,C 63 AMG,Gasoline,Automatic,510.0,2021
+Mercedes-Benz,AMG GT,Gasoline,Automatic,367.0,2021
+Mercedes-Benz,GLS 400,Diesel,Automatic,330.0,2021
+Mercedes-Benz,S 400,Diesel,Automatic,330.0,2021
+Fiat,New Panda,Gasoline,Manual,69.0,2021
+Porsche,Cayenne,Gasoline,Automatic,460.0,2021
+Mercedes-Benz,S 260,Diesel,Automatic,330.0,2021
+Porsche,992,Gasoline,Automatic,581.0,2021
+Fiat,Tipo,Gasoline,Manual,101.0,2021
+MINI,One,Gasoline,Automatic,102.0,2021
+Suzuki,SX4 S-Cross,Electric/Gasoline,Automatic,129.0,2021
+Audi,A1,Gasoline,Automatic,110.0,2021
+Suzuki,Vitara,Electric/Gasoline,Automatic,129.0,2021
+Ford,Transit Courier,Gasoline,Manual,101.0,2021
+Renault,Twingo,Gasoline,Manual,65.0,2021
+Fiat,500C,Gasoline,Manual,71.0,2021
+Kia,Rio,Gasoline,Manual,84.0,2021
+Suzuki,Swift,Electric/Gasoline,Manual,83.0,2021
+Dacia,Sandero,Gasoline,Manual,91.0,2021
+Hyundai,i10,Gasoline,Manual,67.0,2021
+Fiat,500X,Gasoline,Automatic,150.0,2021
+BMW,116,Gasoline,Automatic,109.0,2021
+MINI,Cooper SE,Electric/Gasoline,Automatic,220.0,2021
+BMW,i3,Electric,Automatic,102.0,2021
+Kia,Picanto,Gasoline,Manual,101.0,2021
+Opel,Crossland X,Gasoline,Manual,83.0,2021
+Citroen,C3,Gasoline,Automatic,110.0,2021
+Ford,Transit Connect,Gasoline,Manual,101.0,2021
+Dacia,Duster,Gasoline,Manual,131.0,2021
+Renault,Kangoo,Diesel,Manual,116.0,2021
+Fiat,Doblo,Diesel,Manual,105.0,2021
+Abarth,595 Turismo,Gasoline,Manual,165.0,2021
+SEAT,Arona,Gasoline,Automatic,150.0,2021
+Nissan,Juke,Gasoline,Manual,114.0,2021
+Mazda,CX-3,Gasoline,Automatic,121.0,2021
+Mazda,3,Gasoline,Automatic,122.0,2021
+Ford,EcoSport,Gasoline,Manual,125.0,2021
+Opel,Insignia,Diesel,Automatic,122.0,2021
+Kia,Ceed SW / cee'd SW,Gasoline,Automatic,160.0,2021
+Hyundai,i30,Gasoline,Manual,120.0,2021
+Abarth,595,Gasoline,Manual,179.0,2021
+Jeep,Renegade,Gasoline,Manual,120.0,2021
+Kia,XCeed,Electric/Diesel,Manual,136.0,2021
+Renault,Clio,Electric/Gasoline,Automatic,140.0,2021
+Suzuki,Swace,Electric/Gasoline,Automatic,98.0,2021
+Hyundai,i20,Gasoline,Automatic,120.0,2021
+SEAT,Ibiza,Gasoline,Automatic,110.0,2021
+Skoda,Kamiq,CNG,Manual,90.0,2021
+Hyundai,Kona Elektro,Electric,Automatic,136.0,2021
+Abarth,695,Gasoline,Manual,179.0,2021
+Kia,Niro,Electric/Gasoline,Automatic,141.0,2021
+Kia,e-Niro,Electric,Automatic,204.0,2021
+Ford,Mondeo,Diesel,Automatic,190.0,2021
+Opel,Grandland X,Diesel,Automatic,131.0,2021
+Renault,ZOE,Electric,Automatic,69.0,2021
+Renault,Scenic,Gasoline,Automatic,140.0,2021
+Citroen,Berlingo,Gasoline,Automatic,131.0,2021
+Nissan,Qashqai,Gasoline,Automatic,159.0,2021
+Mitsubishi,ASX,Gasoline,Automatic,150.0,2021
+Renault,Captur,Gasoline,Automatic,154.0,2021
+Volkswagen,Polo,Gasoline,Automatic,150.0,2021
+Volkswagen,T6 Kombi,Diesel,Manual,110.0,2021
+Volvo,XC40,Gasoline,Automatic,163.0,2021
+Kia,Sportage,Diesel,Automatic,185.0,2021
+Jeep,Compass,Electric/Gasoline,Automatic,189.0,2021
+SEAT,Tarraco,Electric/Gasoline,Automatic,150.0,2021
+Skoda,Kodiaq,Diesel,Automatic,150.0,2021
+Ford,Puma,Gasoline,Manual,200.0,2021
+Renault,Megane,Electric/Gasoline,Automatic,158.0,2021
+Opel,Zafira Life,Diesel,Automatic,177.0,2021
+Renault,Talisman,Gasoline,Automatic,224.0,2021
+Renault,Koleos,Gasoline,Automatic,158.0,2021
+Ford,S-Max,Electric/Gasoline,Automatic,190.0,2021
+Ford,Kuga,Electric/Gasoline,Automatic,152.0,2021
+Ford,Ranger,Diesel,Automatic,212.0,2021
+Alfa,Romeo Stelvio,Gasoline,Automatic,280.0,2021
+Ford,Mustang,Gasoline,Automatic,450.0,2021
+Volvo,V90,Diesel,Automatic,190.0,2021
+Jeep,Gladiator,Diesel,Automatic,264.0,2021
+Jeep,Wrangler,Electric/Gasoline,Automatic,381.0,2021
+Audi,S5,Diesel,Automatic,347.0,2021
+Audi,A6,Diesel,Automatic,286.0,2021
+Audi,A5,Diesel,Automatic,286.0,2021
+Renault,Espace,Gasoline,Automatic,224.0,2021
+Volkswagen,Tiguan,Electric/Gasoline,Automatic,150.0,2021
+Audi,Q5,Diesel,Automatic,204.0,2021
+Mercedes-Benz,E 300,Gasoline,Automatic,258.0,2021
+DS,Automobiles DS 7 Crossback,Electric/Gasoline,Automatic,299.0,2021
+Audi,S3,Gasoline,Automatic,310.0,2021
+Audi,TT,Gasoline,Automatic,245.0,2021
+Volvo,XC90,Diesel,Automatic,235.0,2021
+Audi,Q3,Diesel,Automatic,200.0,2021
+Audi,A4,Diesel,Automatic,204.0,2021
+Alpine,A110,Gasoline,Manual,292.0,2021
+Peugeot,208,Gasoline,Automatic,131.0,2021
+Opel,Mokka,Gasoline,Automatic,131.0,2021
+Peugeot,Expert,Diesel,Automatic,122.0,2021
+Volkswagen,T-Roc,Gasoline,Automatic,150.0,2021
+Mazda,CX-30,Gasoline,Automatic,186.0,2021
+Cupra,Formentor,Gasoline,Manual,150.0,2021
+Porsche,Macan,Gasoline,Automatic,441.0,2021
+Audi,e-tron,Electric,Automatic,476.0,2021
+Porsche,Taycan,Electric,Automatic,571.0,2021
+Audi,S8,Gasoline,Automatic,700.0,2021
+Porsche,Panamera,Electric/Gasoline,Automatic,560.0,2021
+Aston,Martin DBX,Gasoline,Automatic,551.0,2021
+Ford,Fiesta,Gasoline,Manual,95.0,2021
+Ford,Focus,Gasoline,Automatic,150.0,2021
+Ford,Grand Tourneo,Diesel,Automatic,120.0,2021
+Volkswagen,Caddy,Diesel,Automatic,122.0,2021
+Volkswagen,Touareg,Electric/Gasoline,Automatic,340.0,2021
+Alfa,Romeo Giulia,Gasoline,Automatic,510.0,2021
+Audi,S6,Diesel,Automatic,349.0,2021
+BMW,M4,Gasoline,Automatic,510.0,2021
+Bentley,Flying Spur,Gasoline,Automatic,549.0,2021
+Fiat,500L,Gasoline,Manual,95.0,2021
+Abarth,595C,Gasoline,Automatic,165.0,2021
+Mercedes-Benz,C 180,Diesel,Automatic,156.0,2021
+BMW,X1,Gasoline,Automatic,192.0,2021
+Mercedes-Benz,GLA 180,Diesel,Automatic,116.0,2021
+Mercedes-Benz,CLA 250,Gasoline,Automatic,224.0,2021
+Mercedes-Benz,E 220,Diesel,Automatic,194.0,2021
+Mercedes-Benz,A 250,Gasoline,Automatic,224.0,2021
+Hyundai,Santa Fe,Electric/Gasoline,Automatic,265.0,2021
+Mercedes-Benz,SLC 300,Gasoline,Automatic,245.0,2021
+Mercedes-Benz,Sprinter,Diesel,Automatic,190.0,2021
+Volkswagen,Arteon,Diesel,Automatic,200.0,2021
+SEAT,Ateca,Gasoline,Manual,150.0,2021
+Renault,Trafic,Diesel,Manual,145.0,2021
+Opel,Corsa,Electric,Automatic,136.0,2021
+Hyundai,Ioniq,Electric,Manual,136.0,2021
+Hyundai,Tucson,Gasoline,Manual,179.0,2021
+Skoda,Karoq,Gasoline,Automatic,150.0,2021
+Ford,Tourneo Connect,Diesel,Automatic,120.0,2021
+Renault,Arkana,Gasoline,Manual,140.0,2021
+Skoda,Superb,Gasoline,Automatic,150.0,2021
+Mazda,MX-5,Gasoline,Manual,184.0,2021
+Citroen,C4,Gasoline,Automatic,155.0,2021
+Opel,Combo,Gasoline,Automatic,131.0,2021
+Hyundai,Kona,Electric/Gasoline,Automatic,141.0,2021
+Jaguar,E-Pace,Diesel,Automatic,204.0,2021
+Land,Rover Defender,Diesel,Automatic,200.0,2021
+Volkswagen,T6 Multivan,Diesel,Automatic,204.0,2021
+Aston,Martin V8,Gasoline,Automatic,510.0,2021
+Land,Rover Range Rover,Gasoline,Automatic,566.0,2021
+Aston,Martin DB11,Gasoline,Automatic,639.0,2021
+DFSK,Glory 580,Gasoline,Automatic,145.0,2021
+Mercedes-Benz,GLC 300,Gasoline,Automatic,258.0,2021
+Volvo,XC60,Electric/Gasoline,Automatic,341.0,2021
+BMW,X3 M,Diesel,Automatic,340.0,2021
+BMW,340,Gasoline,Automatic,374.0,2021
+Mercedes-Benz,GLE 350,Diesel,Automatic,272.0,2021
+Mercedes-Benz,V 300,Diesel,Automatic,237.0,2021
+Mercedes-Benz,GLE 400,Diesel,Automatic,330.0,2021
+Alpina,B3,Gasoline,Automatic,462.0,2021
+Jaguar,F-Type,Gasoline,Automatic,575.0,2021
+Toyota,Aygo,Gasoline,Manual,72.0,2021
+Suzuki,Ignis,Gasoline,Manual,83.0,2021
+Mazda,2,Gasoline,Manual,90.0,2021
+Nissan,NV250,Diesel,Manual,116.0,2021
+Nissan,Micra,Gasoline,Automatic,92.0,2021
+Kia,Ceed / cee'd,Gasoline,Manual,120.0,2021
+Volkswagen,Passat Variant,Gasoline,Automatic,150.0,2021
+Mazda,6,Gasoline,Manual,165.0,2021
+Mazda,CX-5,Gasoline,Automatic,194.0,2021
+Skoda,Octavia,Gasoline,Automatic,110.0,2021
+Peugeot,3008,Gasoline,Automatic,181.0,2021
+Skoda,Scala,Gasoline,Automatic,150.0,2021
+Nissan,X-Trail,Gasoline,Automatic,159.0,2021
+Renault,Grand Scenic,Gasoline,Manual,158.0,2021
+Volkswagen,Golf,Diesel,Automatic,150.0,2021
+Audi,A3,Gasoline,Automatic,150.0,2021
+Renault,Kadjar,Gasoline,Manual,158.0,2021
+Citroen,C5 Aircross,Electric/Gasoline,Automatic,224.0,2021
+Volkswagen,T-Cross,Gasoline,Automatic,150.0,2021
+Audi,Q2,Gasoline,Automatic,150.0,2021
+Mitsubishi,Outlander,Electric/Gasoline,Automatic,224.0,2021
+Nissan,NV300,Diesel,Automatic,170.0,2021
+Peugeot,108,Gasoline,Manual,72.0,2021
+Mitsubishi,Space Star,Gasoline,Manual,71.0,2021
+Citroen,C1,Gasoline,Manual,72.0,2021
+Fiat,Panda,Electric/Gasoline,Manual,69.0,2021
+Skoda,Fabia,Gasoline,Manual,60.0,2021
+Fiat,500,Electric/Gasoline,Manual,71.0,2021
